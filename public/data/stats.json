@@ -1,0 +1,23 @@
+{
+  "keywords": {
+    "token_stats": "Token Stats",
+    "token_name": "Token Name",
+    "market_cap": "Market Cap",
+    "volume24h": "Volume (24h)",
+    "token_supply": "Token Supply",
+    "market_rank": "Market Rank",
+    "price": "Price",
+    "token_burnt": "Token Burnt"
+  },
+  "values": {
+    "token_name": "CCN",
+    "market_cap": "-",
+    "volume24h": "-",
+    "token_supply": "100 quadrillion",
+    "market_rank": "-",
+    "price": "0.00000000113",
+    "fluctuation": "41.25%",
+    "token_burnt": "-"
+  },
+  "is_number_color_red": false
+}

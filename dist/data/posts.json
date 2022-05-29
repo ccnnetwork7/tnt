@@ -1,0 +1,35 @@
+{
+  "title": "Latest News",
+  "posts": [
+    {
+      "title": "Crypto Totem Listing",
+      "image": "/imgs/posts/CRYPTO-TOTEM-400x230.jpg",
+      "caption": "New Listing!",
+      "full_text": "New Listing!"
+    },
+    {
+      "title": "ICOholder Listing",
+      "image": "/imgs/posts/ICOholder-400x230.jpg",
+      "caption": "New Listing!",
+      "full_text": "New Listing!"
+    },
+    {
+      "title": "ICOhotlist Listing",
+      "image": "/imgs/posts/icohotlist-400x230.jpg",
+      "caption": "New Listing!",
+      "full_text": "New Listing!"
+    },
+    {
+      "title": "ICOListing Listing",
+      "image": "/imgs/posts/ICOlisting 400x230.jpg",
+      "caption": "New Listing!",
+      "full_text": "New Listing!"
+    },
+    {
+      "title": "ICO marks Listing",
+      "image": "/imgs/posts/ICOmarks-400x230.jpg",
+      "caption": "New Listing!",
+      "full_text": "New Listing!"
+    }
+  ]
+}

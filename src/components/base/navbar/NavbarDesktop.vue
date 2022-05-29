@@ -1,0 +1,50 @@
+<template>
+  <div class="fixed w-full">
+    <div
+        class="relative mx-auto bg-[#202020] flex content-center items-center rounded-b-3xl h-[115px] shadow-lg shadow-white/10">
+
+      <!--      big logo-->
+      <div
+          class="absolute xl:left-5 2xl:left-10 3xl:left-20  bg-red--theme w-[235px] h-[145px] rounded-b-2xl flex items-center justify-center logo-box-shadow">
+        <img class="text-white text-3xl text-center h-full leading-[80px] w-[180px] h-[90px]" src="/imgs/icons/logo.svg"
+             alt="">
+      </div>
+
+      <!--      items-->
+      <div class="flex h-full items-center xl:ml-[250px] 2xl:ml-[320px] 3xl:ml-[320px]">
+
+        <div
+            class="cursor-pointer flex items-center h-full pb-[8px] hover:pb-0 hover:border-b-8 border-[#a60303] mx-6"
+            v-for="(item, index) of data.navigation_items" :key="index">
+          <p class="text-xs text-center font-medium h-full leading-[115px] whitespace-nowrap"
+             @click="onNavItemClick(item.link, item.blank)">
+            {{ item.title }}</p>
+        </div>
+
+      </div>
+
+
+      <PancakeSwapButton class="mx-auto ml-1" :link="data.get_ccn_button_link"/>
+
+    </div>
+  </div>
+</template>
+
+<script setup lang="ts">
+import PancakeSwapButton from '../../shared/components/PancakeSwapButton.vue'
+
+const props = defineProps<{
+  data: any
+}>()
+
+
+function onNavItemClick(link: string, blank: boolean) {
+  window.open(link, blank ? '_blank' : '_self')
+}
+</script>
+
+<style scoped>
+.logo-box-shadow {
+  box-shadow: 0 2px 12px 0 rgba(255, 16, 16, 0.24);
+}
+</style>
