@@ -1,7 +1,7 @@
 <template>
-  <div class="bg-gradient-to-t from-[#A60303] to-[#202020]">
+  <div class="bg-gradient-to-t from-[#4abc8c] to-[#360b6e]">
     <div class="container mx-auto flex flex-col justify-center items-center py-20">
-      <p class="xl:text-[30px] mb-5">Holders Rewards</p>
+      <p class="xl:text-[30px] mb-5">پاداش</p>
       <p class="font-bold text-xl xl:text-4xl mb-16 xl:mb-5">{{ data.title }}</p>
 
       <div class="flex flex-col xl:flex-row items-center justify-between mb-10">
@@ -36,13 +36,13 @@
       </div>
 
 
-      <div class="flex">
+      <!-- <div class="flex">
         <div class="bg-[#102d40] mx-2 flex items-center py-3 px-6 rounded cursor-pointer font-light"
              v-for="(item, index) of data.buttons" :key="index" @click="openLink(item.link)">
           <p class="font-medium mr-2">{{ item.title }}</p>
           <img :src="item.icon" alt="">
         </div>
-      </div>
+      </div> -->
 
 
     </div>

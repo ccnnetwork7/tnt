@@ -1,29 +1,31 @@
 <template>
-  <div class="container mx-auto flex flex-col justify-center items-center">
-    <p class="text-4xl font-bold text-center my-16">{{ data.title }}</p>
+  <div class="bg-[#360b6e]">
+    <div class="container mx-auto flex flex-col justify-center items-center">
+      <p class="text-4xl font-bold text-center my-16">{{ data.title }}</p>
 
-    <div class="flex justify-center items-center carousel w-[90%] h-[450px] max-w-[400px]"
-         @touchstart="startTouch($event)"
-         @touchend="endTouch($event)">
+      <div class="flex justify-center items-center carousel w-[90%] h-[450px] max-w-[400px]"
+          @touchstart="startTouch($event)"
+          @touchend="endTouch($event)">
 
-      <transition
-          :name="slideDirection"
-          class="carousel-slide"
-          v-for="(item, index) of data.posts.slice(0,4)"
-          :key="index"
-      >
-        <PostPreview
-            v-show="currentIndex === index"
+        <transition
+            :name="slideDirection"
+            class="carousel-slide"
+            v-for="(item, index) of data.posts.slice(0,4)"
             :key="index"
-            :post="item"
-            class="carousel-slider my-4 mx-3"/>
-      </transition>
-    </div>
+        >
+          <PostPreview
+              v-show="currentIndex === index"
+              :key="index"
+              :post="item"
+              class="carousel-slider my-4 mx-3"/>
+        </transition>
+      </div>
 
-    <div class="flex">
-      <div
-          v-for="(item, index) of data.posts.slice(0,4)"
-          :class="`h-[10px] w-[10px] ${index===currentIndex?'bg-[#FF0000]':'bg-[#750303]'} rounded-full mx-2 xl:hidden`"></div>
+      <div class="flex">
+        <div
+            v-for="(item, index) of data.posts.slice(0,4)"
+            :class="`h-[10px] w-[10px] ${index===currentIndex?'bg-[#360b6e]':'bg-[#4abc8c]'} rounded-full mx-2 xl:hidden`"></div>
+      </div>
     </div>
   </div>
 </template>

@@ -1,8 +1,8 @@
 <template>
-  <div class="bg-[#a60303] w-full flex flex-col items-center py-10">
+  <div class="bg-[#360b6e] w-full flex flex-col items-center py-10">
 
-    <p class="text-4xl font-bold mb-5">Listed here</p>
-    <p class="font-light text-center text-xs xl:text-xl">More exchanges will be available soon</p>
+    <p class="text-4xl font-bold mb-5">حامیان پروژه</p>
+    <p class="font-light text-center text-xs xl:text-xl">صرافی های بیشتر به زودی اضافه خواهند شد</p>
 
     <div ref="scrollContainer" class="flex overflow-x-auto scrolling-partners">
       <img class="cursor-pointer" v-for="(item, index) of data" :key="index" :src="item[0]" alt="" @click="imgClickHandler(index)">

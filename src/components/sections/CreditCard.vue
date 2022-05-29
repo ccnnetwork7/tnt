@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-red--theme">
+  <div class="bg-grey--theme">
     <div class="container px-8 md:px-0 mx-auto flex flex-col lg:flex-row justify-evenly py-16">
       <div class="mb-5 lg:mb-0">
         <p class="mb-10 font-black text-[30px] xl:text-[40px] 2xl:text-[59px] leading-[110%] max-w-[321px] xl:max-w-[454px] 2xl:max-w-[665px]">{{ data.title }}</p>

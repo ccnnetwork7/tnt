@@ -6,7 +6,7 @@
          class="w-[90vw] xl:w-[1000px] cursor-pointer">
 
       <div class="flex justify-between items-center border-b-2 border-white p-3 xl:p-4"
-      :class="item.isOpen?'bg-[#707070]':''">
+      :class="item.isOpen?'bg-[#038aa6]':''">
 
         <p class="font-light text-base xl:text-2xl">{{ item.title }}</p>
         <img v-if="item.isOpen" src="/imgs/icons/chevron-up.svg" alt="indicator">

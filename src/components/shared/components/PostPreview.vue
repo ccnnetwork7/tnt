@@ -31,7 +31,7 @@ function close() {
 
 <style scoped>
 .box-shadow-post {
-  box-shadow: 0 2px 32px 0 #750303;
+  box-shadow: 0 2px 32px 0 #f5d39a;
 }
 
 

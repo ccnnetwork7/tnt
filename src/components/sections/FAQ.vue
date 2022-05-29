@@ -1,7 +1,10 @@
 <template>
-  <div class="flex items-center justify-center container mx-auto">
-    <Accordion :items="data"/>
+  <div class="bg-[#360b6e]">
+    <div class="flex items-center justify-center container mx-auto">
+      <Accordion :items="data"/>
+    </div>
   </div>
+  
 </template>
 
 <script setup lang="ts">

@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col justify-center items-center max-w-[340px] mx-auto">
-    <div class="bg-[#a60303] shadow-lg shadow-[#a60303]/70 w-[60px] h-[60px] xl:w-[122px] xl:h-[122px] rounded-full flex items-center justify-center mb-5">
+    <div class="bg-[#4abc8c] shadow-lg shadow-[#f5d39a]/70 w-[60px] h-[60px] xl:w-[122px] xl:h-[122px] rounded-full flex items-center justify-center mb-5">
       <img :src="icon" alt="" class="w-[32px] h-[32px] xl:w-[initial] xl:h-[initial]">
     </div>
     <p class="text-xs xl:text-xl mb-3">{{ title }}</p>

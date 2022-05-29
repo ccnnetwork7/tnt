@@ -1,7 +1,8 @@
 <template>
-  <div class="container mx-auto">
-    <p class="text-4xl font-bold text-center mb-16">{{ data.title }}</p>
-    <div class="grid grid-cols-1 xl:grid-cols-2 gap-y-10 px-3 xl:px-0">
+  <div class="bg-[#360b6e] py-10">
+    <div class="container mx-auto">
+      <p class="text-4xl font-bold text-center mb-16">{{ data.title }}</p>
+      <div class="grid grid-cols-1 xl:grid-cols-2 gap-y-10 px-3 xl:px-0">
 
       <div v-for="(item, index) of data.items" :key="index">
 
@@ -14,6 +15,8 @@
       </div>
 
     </div>
+    </div>
+    
   </div>
 </template>
 

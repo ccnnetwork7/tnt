@@ -1,10 +1,10 @@
 <template>
-  <div class="py-[150px] px-6 min-h-screen bg-[#A60303]">
+  <div class="py-[150px] px-6 min-h-screen bg-[#360b6e]">
     <div class="container mx-auto flex flex-col justify-center">
       <p class="text-center text-xl">{{ data.c_news_network }}</p>
       <p class="text-center text-3xl font-black">{{ data.heading_biggest }}</p>
       <p class="text-center ">{{ data.subheading }}</p>
-      <img src="/imgs/hero.png" alt="">
+      <img src="/imgs/bannner.png" alt="">
 
       
       <div class="mb-8">
@@ -13,52 +13,21 @@
           <p class="text-[#102d40] select-text text-[10px] ">{{ data.bsc_addr }}</p>
         </div>
 
-        <div class="mb-5 bg-[#102d40] rounded flex flex-col justify-center px-10 py-2 drop-shadow-lg cursor-pointer"
+        <div class="mb-5 bg-[#7b8582] rounded flex flex-col justify-center px-10 py-2 drop-shadow-lg cursor-pointer"
              @click="copyWalletAddr()">
           <p class="font-medium text-center">{{ data.copy_addr_btn_text }}</p>
         </div>
 
-        <div
-            class="w-full mx-auto md:mx-0 w-fit py-2 px-2 bg-gradient-to-t from-[#349418] to-[#33DF3E] rounded-md cursor-pointer">
-          <p class="text-[15px] font-medium text-center" @click="greenBtnClickHandler()">
-            {{ data.green_btn_title }}</p>
-        </div>
 
         <div class="mt-3">
           <div
-            class="w-full mx-auto md:mx-0 w-fit py-2 px-2 bg-gradient-to-t from-purple-900 to-purple-800 rounded-md cursor-pointer"
+            class="w-full mx-auto md:mx-0 w-fit py-2 px-2 bg-gradient-to-t from-[#f1b15f] to-[#ea4a49] rounded-md cursor-pointer"
           >
             <p
               class="text-base md:text-[15px] font-medium text-center"
               @click="purpleBtnClickHandler()"
             >
               {{ data.purple_btn_title }}
-            </p>
-          </div>
-        </div>
-
-        <div class="mt-3">
-          <div
-            class="w-full mx-auto md:mx-0 w-fit py-2 px-2 bg-gradient-to-t from-[#ff9414] to-[#fbac4d] rounded-md cursor-pointer"
-          >
-            <p
-              class="text-base md:text-[15px] font-medium text-center"
-              @click="orangeBtnClickHandler()"
-            >
-              {{ data.orange_btn_title }}
-            </p>
-          </div>
-        </div>
-
-        <div class="mt-3">
-          <div
-            class="w-full mx-auto md:mx-0 w-fit py-5 px-2 bg-gradient-to-t from-[#0b59da] to-[#2292AE] rounded-md cursor-pointer"
-          >
-            <p
-              class="text-base md:text-[17px] font-medium text-center"
-              @click="blueBtnClickHandler()"
-            >
-              {{ data.blue_btn_title }}
             </p>
           </div>
         </div>

@@ -1,12 +1,12 @@
 <template>
   <div class="fixed w-full">
     <div
-        class="relative mx-auto bg-[#202020] flex content-center items-center rounded-b-3xl h-[115px] shadow-lg shadow-white/10">
+        class="relative mx-auto bg-[#4abc8c] flex content-center items-center rounded-b-3xl h-[115px] shadow-lg shadow-white/10">
 
       <!--      big logo-->
       <div
-          class="absolute xl:left-5 2xl:left-10 3xl:left-20  bg-red--theme w-[235px] h-[145px] rounded-b-2xl flex items-center justify-center logo-box-shadow">
-        <img class="text-white text-3xl text-center h-full leading-[80px] w-[180px] h-[90px]" src="/imgs/icons/logo.svg"
+          class="absolute xl:left-5 2xl:left-10 3xl:left-20  bg-grey--theme w-[235px] h-[145px] rounded-b-2xl flex items-center justify-center logo-box-shadow">
+        <img class="text-white text-3xl text-center h-full leading-[80px] w-[180px] h-[90px]" src="/imgs/icons/logo-tnt.png"
              alt="">
       </div>
 
@@ -14,9 +14,9 @@
       <div class="flex h-full items-center xl:ml-[250px] 2xl:ml-[320px] 3xl:ml-[320px]">
 
         <div
-            class="cursor-pointer flex items-center h-full pb-[8px] hover:pb-0 hover:border-b-8 border-[#a60303] mx-6"
+            class="cursor-pointer flex items-center h-full pb-[8px] hover:pb-0 hover:border-b-8 border-[#a60303] mx-4"
             v-for="(item, index) of data.navigation_items" :key="index">
-          <p class="text-xs text-center font-medium h-full leading-[115px] whitespace-nowrap"
+          <p class="text-xs text-center h-full leading-[115px] whitespace-nowrap" style="font-size:1.1rem;"
              @click="onNavItemClick(item.link, item.blank)">
             {{ item.title }}</p>
         </div>
@@ -24,7 +24,7 @@
       </div>
 
 
-      <PancakeSwapButton class="mx-auto ml-1" :link="data.get_ccn_button_link"/>
+      <!-- <PancakeSwapButton class="mx-auto ml-1" :link="data.get_ccn_button_link"/> -->
 
     </div>
   </div>

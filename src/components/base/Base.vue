@@ -8,23 +8,23 @@
       <Navbar :data="data.navbar"/>
       <Hero :data="data.hero" id="hero"/>
       <UnderHeroWhiteStrip :data="data.underhero_white_strip"/>
-      <LatestNewsAndMilstone :data="data.latest_news_and_milestones" id="news-and-milestones"/>
+      <!-- <LatestNewsAndMilstone :data="data.latest_news_and_milestones" id="news-and-milestones"/> -->
+      <LatestNews class="mb-20" :data="posts" id="latestnews"/>
       <Exchanges class="mb-20" :data="data.listed_here" id="exchanges"/>
       <Features class="mb-20" :data="data.features" id="targets"/>
-      <IntroVideo class="mb-20" :data="data.intro_video" id="introvid"/>
-      <ApplicationCTA class="mb-20" :data="data.application_cta" id="application"/>
+      <!-- <IntroVideo class="mb-20" :data="data.intro_video" id="introvid"/> -->
+      <!-- <ApplicationCTA class="mb-20" :data="data.application_cta" id="application"/> -->
       <Values class="mb-20" :data="data.values" id="values"/>
-      <CreditCard :data="data.credit_card" class="mb-20" id="credit-card"/>
-      <TokenStats class="mb-20" :data="stats" id="tokenstats"/>
-      <UnderTokenStatsWhiteStrip :data="data.under_token_stats_white_strip" class="mb-20"/>
+      <!-- <CreditCard :data="data.credit_card" class="mb-20" id="credit-card"/> -->
+      <!-- <TokenStats class="mb-20" :data="stats" id="tokenstats"/> -->
+      <!-- <UnderTokenStatsWhiteStrip :data="data.under_token_stats_white_strip" class="mb-20"/> -->
       <OurTokenomics class="mb-20" :data="data.tokenomics" id="ourtokenomics"/>
-      <TokenDistribution class="mb-20" :data="data.token_distribution" id="token-distribution"/>
-      <LatestNews class="mb-20" :data="posts" id="latestnews"/>
-      <RoadMap class="mb-20" :data="data.roadmap" id="roadmap"/>
-      <Collaboration class="mb-20" :data="data.collaboration"/>
+      <!-- <TokenDistribution class="mb-20" :data="data.token_distribution" id="token-distribution"/> -->
+      <!-- <RoadMap class="mb-20" :data="data.roadmap" id="roadmap"/> -->
+      <!-- <Collaboration class="mb-20" :data="data.collaboration"/> -->
       <FAQ class="mb-20" :data="data.faq.items" id="faq"/>
       <ContactUs class="mb-32" :data="data.contact" id="contact"/>
-      <JoinCommunity class="mb-40" :data="data.community_cta" id="joincommunity"/>
+      <!-- <JoinCommunity class="mb-40" :data="data.community_cta" id="joincommunity"/> -->
       <ToastMessage class="z-[100]"/>
     </div>
     <FooterContainer :data="data.footer"/>

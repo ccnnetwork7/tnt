@@ -17,7 +17,7 @@
       </div>
 
 
-      <PancakeSwapButton class="mr-0 my-0" :link="data.get_ccn_button_link"/>
+      <!-- <PancakeSwapButton class="mr-0 my-0" :link="data.get_ccn_button_link"/> -->
     </div>
 
   </div>

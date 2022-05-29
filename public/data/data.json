@@ -3,90 +3,84 @@
     "get_ccn_button_link": "http://news.ccnnetwork.co",
     "navigation_items": [
       {
-        "title": "Home",
+        "title": "خانه",
         "link": "#hero",
         "blank": false
       },
       {
-        "title": "Targets",
+        "title": "آخرین اخبار",
+        "link": "#latestnews",
+        "blank": false
+      },
+      {
+        "title": "حامیان پروژه",
+        "link": "#exchanges",
+        "blank": false
+      },
+      {
+        "title": "درباره TNT",
         "link": "#targets",
         "blank": false
       },
       {
-        "title": "Application",
-        "link": "#application",
-        "blank": false
+        "title": "اهداف",
+        "link": "#targets",
+        "blank":false
       },
       {
-        "title": "Values",
+        "title": "ارزش ها",
         "link": "#values",
         "blank": false
       },
       {
-        "title": "Whitepaper",
-        "link": "https://ccnnetwork.co/whitepaper.pdf",
-        "blank": true
-      },
-      {
-        "title": "Rewards",
+        "title": "پاداش هولدرها",
         "link": "#ourtokenomics",
         "blank": false
       },
       {
-        "title": "Token Stats",
-        "link": "#tokenstats",
+        "title": "سوالات متداول",
+        "link": "#faq",
         "blank": false
       },
       {
-        "title": "Road Map",
-        "link": "#roadmap",
-        "blank": false
-      },
-      {
-        "title": "Contact Us",
+        "title": "ارتباط با ما",
         "link": "#contact",
         "blank": false
       }
     ]
   },
   "hero": {
-    "c_news_network": "Crypto News Network",
-    "heading_biggest": "Raising awareness\nand spreading information",
-    "subheading": "CCN team purpose is to provide news, education and spreading information\nabout digital Currencies to people of the world",
-    "bsc_addr": "0x721F40adC793e951EdF2ECE86376e7a103211252",
-    "eth_coming": "ETH coming soon...",
-    "copy_addr_btn_text": "Copy Address",
-    "bottom_text": "CCN team purpose is to provide news, education and spreading information about digital Currencies to people of the world",
+    "c_news_network": "",
+    "heading_biggest": "اولین توکن در عرصه پرداخت مدیا و موسیقی",
+    "subheading": "توکن TNT  برای سهولت در خرید آثار هنرمندان تمام دنیا کاربرد دارد. به زودی خرید تک آهنگ ، آلبوم ها ، کنسرت و تمامی کاربرد های مدیا و هنری در این شبکه پرداخت قرار خواهد گرفت.",
+    "bsc_addr": " *********************************************** ",
+    "eth_coming": "آدرس کانترکت",
+    "copy_addr_btn_text": "کپی کردن آدرس",
+    "bottom_text": "اولین توکن در عرصه پرداخت مدیا و موسیقی",
     "socials": [
       {
         "icon": "/imgs/icons/social/instagram.svg",
         "title": "Instagram",
-        "link": "https://www.instagram.com/CCN.network/"
+        "link": "#"
       },
       {
         "icon": "/imgs/icons/social/telegram.svg",
         "title": "Telegram",
-        "link": "https://t.me/ccnnetwork"
+        "link": "#"
       },
       {
         "icon": "/imgs/icons/social/twitter.svg",
         "title": "Twitter",
-        "link": "https://twitter.com/CCNnet"
+        "link": "#"
       },
       {
         "icon": "/imgs/icons/social/facebook.svg",
         "title": "Facebook",
-        "link": "https://www.facebook.com/profile.php?id=100078436270384"
+        "link": "#"
       }
     ],
-    "green_btn_title": "Get CCN With Crypto / Credit Card",
-    "purple_btn_title": "BUY CCN WITH OFFER (35% WITH REFERAL)",
-    "orange_btn_title": "Join CCN Airdrop (telegram bot)",
-    "blue_btn_title": "Special offers for TMINews users",
-    "purple_btn_link": "https://icoreferral.ccnnetwork.co/",
-    "orange_btn_link": "https://t.me/Ccnairdropbot",
-    "green_btn_link": "http://ico.ccnnetwork.co/",
-    "blue_btn_link": "https://sale.ccnnetwork.co/"
+    "buy_btn_title": "خرید (PRE-SALE) TNT",
+    "buy_btn_link": "#"
   },
   "latest_news_and_milestones": {
     "news": {
@@ -131,7 +125,7 @@
     }
   },
   "underhero_white_strip": {
-    "text": "We will be a reference to introduce the best projects\n in the field of blockchain and cryptocurrency"
+    "text": "TNT برای شما سهولت و اطمینان را به ارمغان می آورد"
   },
   "you_are_our_partners": {
     "title": "You are our partners",
@@ -153,27 +147,17 @@
     ]
   },
   "values": {
-    "title": "Values",
+    "title": "ارزش ها",
     "items": [
       {
         "icon": "/imgs/icons/transparency.svg",
-        "title": "Clarity",
-        "caption": "The CCN team considers its main duty to be more clear in digital currencies and blockchain industry so that the number of interested activists in this industry is continuously increased by presenting true news and establishing justice in education and supporting the free flow of information and the activists of this market. We believe that the principle of continuity in any industry is its clarity."
+        "title": "صداقت در کار",
+        "caption": "بزرگترین ارزش اجرایی این پروژه صداقتی است میان ما و کاربران و در مقابل بین ما و هنرمندان . با این حرکت به صورت شفاف هنرمندان میتوانند ، پیشرفت های چشم گیری در فعالیت هایشان داشته باشند."
       },
       {
-        "icon": "/imgs/icons/community.svg",
-        "title": "Advocators",
-        "caption": "We consider the fans of digital currencies as our family and our partners. In spite of the current atmosphere in this industry, there is no gap between us and our fans and we consider ourselves obliged to serve and be honest with them. As stated in the objectives, our team examined all the weak points of this market and will not allow anyone to leave the market any more. Our fans and we will help the industry to grow continuously by creating a great alliance. You and we make up a family and believe that without family support, no project will succeed. You are our first and last priority."
-      },
-      {
-        "icon": "/imgs/icons/infinity.svg",
-        "title": "Long term vision",
-        "caption": "We consider updating the plan and keeping up with the changes as one of our most important functions in the project, that is why we will add several goals to the White Paper goals every year so that the users have always projects for investment and partnership. The project management team has a long term vision to be with their partners since this team originates from the partners. Also blockchain and digital currencies industry is at the beginning of its way and we believe that digital currencies will evolve the world one day."
-      },
-      {
-        "icon": "/imgs/icons/trust.svg",
-        "title": "Trust",
-        "caption": "In financial markets, trust is the most important principle. Investors will trust more when they see clarity in project processes and it causes projects to perform their duties too. Trust originates from human feeling. Even incredible tasks can be performed with trust. Because it leads to unity and consequently nothing is impossible when there is unity. We intend to have you by our sides forever, for this purpose we will be with you in all steps and consider you as our partners. We proved it in our staking project. We will pay the highest profit. In all the projects, we and our partners will have the same profit."
+        "icon": "/imgs/features/staking.svg",
+        "title": "ارزش افزوده",
+        "caption": "ما نه تنها به فکر حمایت از هنرمندان بودیم بلکه با ایجاد یک سیستم ارز دیجیتال در آمدی معقول و منطقی را به هولدر های توکن TNT ارئه خواهیم داد."
       }
     ]
   },
@@ -183,54 +167,41 @@
     "youtube_embed_src": "https://www.youtube-nocookie.com/embed/EWHNB3de6oE"
   },
   "features": {
-    "amazing_design": "CCN is a singular in the world of digital currencies",
-    "description": "ccn is not just a token We have several goals to attract people around the world to digital currencies by eliminating discrimination and giving the necessary information to those interested in this market and maintaining the principles of transparency and trust in it\nOur group has spent 2 years researching and studying the weaknesses of this market and we are looking to create a platform with free training and sending reliable and accurate news that not only the user will not be separated from this market due to losses, but also more enthusiasts. Attract to this market every day",
+    "amazing_design": "TNT برای شما سهولت و اطمینان را به ارمغان می آورد",
+    "description": " تیم TNT در نظر دارد با ایجاد یک شبکه پرداخت غیر متمرکز به تمامی هنرمندان در عرصه موسیقی ، سینما ، و دیگر شاخه های هنری – با حفظ مالکیت معنوی اثر از سراسر جهان ، پرداختی با سهولت را به ارمغان بیاورد. در این راستا دارندگان توکن TNT  میتوانند از طریق توکن های خود ، آلبوم ها ، تک آهنگ ها ، کنسرت ها ، فیلم ها ، سریال ها و خرید انواع ساخته های هنری را توسط شبکه پرداخت TNT انجام دهد . در این فرایند به غیر از دسترسی سریع و آسان به آثار مورد نظر از هنرمند خود حمایت کنید. دارندگان توکن TNT میتوانند با نگهداری ماهیانه آن برای خود سود ماهیانه دریافت کنند . این سود بنا به حجم و تغییرات ماهانه از 5 تا 15 درصد میتواند باشد.",
     "info_buttons": {
       "buttons": [
         {
-          "text": "CCN ICO",
-          "link": "https://ico.ccnnetwork.co/"
-        },
-        {
-          "text": "View Chart (Coming Soon)",
+          "text": "لینک بایننس اسمارت چین TNT",
           "link": "#"
-        },
-        {
-          "text": "Check BSC SCAN",
-          "link": "https://bscscan.com/address/0x721F40adC793e951EdF2ECE86376e7a103211252"
         }
       ]
     },
     "features": [
       {
-        "title": "Establish a 24/7 news network",
-        "caption": "Launching a 24/7 news network in English which is translatable to 00 languages to review the news and other effective factors on market every moment ant every day and analyzing digital currency charts and studying new projects in blockchain industry with the experts of this industry so that the people around the world can make the right investment online. These facilities can be available on the Metavarse Platform in the near future.",
+        "title": "درامد زایی",
+        "caption": "درامد زایی برای طرافدارن توکن TNT به صورت ماهیانه و با اطمینان از خاطر از 5 تا 25 درصد خواهد بود.",
+        "icon": "/imgs/features/staking.svg"
+      },
+      {
+        "title": "حمایت از شخصیت ها",
+        "caption": "شما میتوانید با خرید آثار هنرمند مورد نظر خود میتوانید ضمن همکاری با ایشان آثاری با کیفیت ، مطلوب تر و برازنده خود را مستقیما از هنرمندان خود دریافت نمایید.",
+        "icon": "/imgs/icons/community.svg"
+      },
+      {
+        "title": "جهانی شدن",
+        "caption": " یکی از اهداف مهم توکن TNT  نگاه جهانی به حمایت از هنرمندان و صاحبین اثار می باشد . که ضمن پیشرفت پروژه تصمیم داریم ، این شبکه پرداخت را به تمام دنیا ارائه دهیم.",
         "icon": "/imgs/features/satelite.svg"
       },
       {
-        "title": "Free Education",
-        "caption": "Basic training digital currencies and blockchain industry and their applications free of charge for all people of the world online and in the future on the Metaverse Platform with a modern design and idea.",
-        "icon": "/imgs/features/education.svg"
+        "title": "آینده توکن",
+        "caption": " تعداد این توکن بسیار محدود طراحی شده به دلیل آنکه در فرایند های حمایتی مبلغ قابل توجهی را جمع آوری و پرداخت نمایند . لذا براورد می شود در سال اول و دوم ارائه آن بتواند چندین برابر ارزش اولیه را کسب نماید.",
+        "icon": "/imgs/icons/infinity.svg"
       },
       {
-        "title": "Launching an app store",
-        "caption": "Establishing an app store to provide apps and games and al the similar items created using blockchain platform so that the users can have access to all of these programs and services simultaneously as well as basic classifications of the created items and this way more know about the facilities of blockchain industry and support it.",
-        "icon": "/imgs/features/apps.svg"
-      },
-      {
-        "title": "Running the largest NFT gallery",
-        "caption": "the largest NFT Gallery for auction to buy and sell them in order to support this emerging industry so that all people can know about this attractive and profitable industry and make use of their capacities and even earn money.",
-        "icon": "/imgs/features/image.svg"
-      },
-      {
-        "title": "Certification System",
-        "caption": "Installing the token verification system assessing and scoring the value and the efficiency of tokens as well as future analysis of this token for all the investors and people in intended places so that they will no longer engage in incomplete or worthless projects or scams",
+        "title": "یک پارچه سازی پرداخت",
+        "caption": "تیم TNT با ارائه مجموعه ای بزرگ از هنرمندان سراسر جهان ، دسترسی شما را برای ارائه خدمات بسیار آسان می نماید و از آن طریق فرصت برای پیشرفت خود را محیا سازد.",
         "icon": "/imgs/features/certificate.svg"
-      },
-      {
-        "title": "Staking",
-        "caption": "Setting up a CCN token stake with profit of 30%, which is the profit of the users participating in our project. We consider our holders who participate in our stake as our partners.",
-        "icon": "/imgs/features/staking.svg"
       }
     ]
   },
@@ -261,16 +232,7 @@
     "green_btn_link": "https://ico.ccnnetwork.co/"
   },
   "listed_here": [
-    ["/imgs/exchanges/Cryptototem.png", "https://cryptototem.com/crypto-currency-network-ccn/"],
-    ["/imgs/exchanges/icohotlist.png", "https://www.icohotlist.com/ico/ccn-cryptocurrency-network/"],
-    ["/imgs/exchanges/icolistingonline.png", "https://www.icolistingonline.com/ico/cryptocurrency-network/"],
-    ["/imgs/exchanges/icomarks.png", "https://icomarks.com/ico/cryptocurrency-network"],
-    ["/imgs/exchanges/icoholder.png", "https://icoholder.com/en/cryptocurrency-network-ccn-1016861"],
-    ["/imgs/exchanges/airdropalert.png", "#"],
-    ["/imgs/exchanges/airdropbob.png", "https://www.airdropbob.com/ccn-network/airdrop-ccn-network"],
-    ["/imgs/exchanges/airdropking.png", "http://airdropking.io/airdrop/ccnco"],
-    ["/imgs/exchanges/airdropsmob.png", "#"],
-    ["/imgs/exchanges/airdropvillage.png", "https://airdropvillage.io/airdrop/ccn/"]
+    ["/imgs/CCN.svg", "https://ccnnetwork.co/"]
   ],
   "collaboration": {
     "title": "Cooperation\nin e–commerce (Coming Soon)",
@@ -278,21 +240,21 @@
     "img": "/imgs/ecommerce.jpg"
   },
   "tokenomics": {
-    "title": "Our Tokenomics",
+    "title": "در آمد هولدر ها",
     "item_left": {
       "icon": "/imgs/tokenomics/burn.svg",
-      "percent": "10%",
-      "description": "In the case of manual token burning, we will share 10% of the total token burning as a eward among our long term holders. This price ill be automatically added to your property."
+      "percent": "",
+      "description": "سود ماهیانه : با انجام تراکنش های به موقع و نگهداری از توکن TNT بین 5 تا 25 درصد سود ماهیانه دریافت کنید."
     },
     "item_right": {
       "icon": "/imgs/tokenomics/stake.svg",
-      "percent": "30%",
-      "description": "Our main reward is in staking our token to which the highest profit among digital currencies is allocated. Because we share the profit of running the project with you. 30% of your capital in the staking will be paid to you as the annual profit."
+      "percent": "",
+      "description": "استیک کردن : با سپرده گذاری ارز TNT  در وب سایت توکن میتوانید . به غیر از سود ارزش افزوده توکن ، 20 درصد سالیانه سود دریافت کنید."
     },
     "item_bottom": {
       "icon": "/imgs/tokenomics/coin.svg",
       "number": "200,000$",
-      "description": "For every 100 million dollars that are created in market Cup, 200000 dollars are paid to the 200 holders holding our currency for the longest time, according to the held price."
+      "description": "به ازای هر 50 میلیون دلار جمع آوری شده در سیستم 500 هزار دلار به صورت قرعه کشی به چندین نفر از هولدر هایی که بیش از 6 ماه توکن TNT را نگهداری نموده اند پرداخت خواهد شد."
     },
     "buttons": [
       {
@@ -446,47 +408,42 @@
   "faq": {
     "items": [
       {
-        "title": "What is CCN?",
-        "description": "The ccn project is an institutional project that was created with the aim of making more and more people in the world interested in digital currencies, as well as ending the separation of activists and enthusiasts in this field due to successive losses. In addition, ccn is thinking of teaching the basics of making money from this market, as well as new ways to increase capital and earn money for all those who are interested. To achieve these goals, ccn has considered programs that include: Daily analysis of cryptocurrency markets by top experts Introducing the best ICO for investment Future analysis of emerging memes by top experts Introducing top NFT for investment Free training on analysis and trading in the digital currency market Every 2 hours, important news and influential factors in the cryptocurrency market",
+        "title": "TNT چیست؟",
+        "description": "توکن TNT اولین توکن در عرصه پرداخت مدیا و موسیقی است. توکن TNT برای سهولت در خرید آثار هنرمندان تمام دنیا کاربرد دارد. به زودی خرید تک آهنگ ، آلبوم ها ، کنسرت و تمامی کاربرد های مدیا و هنری در این شبکه پرداخت قرار خواهد گرفت.",
         "isOpen": true
       },
       {
-        "title": "About CCN project",
-        "description": "CCN was generated in March 2022. The idea of this project was studied and researched for 2 years to finally have the best performance for all people interested in digital currencies and the future of this market. CCN is not just a token. In this project which we have started, we have several goals to attract people around the world to digital currencies; all these goals will be available on our application and website and CCN TV. It is investigated that the most significant reason for financial loss in a market is a lack of transparency in the industry related. In order to provide such transparency in Blockchain industry, Cryptocurrency Network, abbreviated to CCN, is set up to actively reflect the facts of digital currencies as they really are. CCN is the first project in the field of digital currencies which shares the profits of any cryptocurrency project with its own holders. It aims to create a fairly stable and steady market with CCN tokens to avoid fictitious fluctuations causing the investors capital financial loss. In order to prevent the tokens from being fluctuated unreasonably, CCN algorithm imposes limitation on sales in the first three months after launching the ICO. In order to preserve the value of the holders’ currencies, burning tokens is done mostly manually at the right time. Also, a robot is designed to prevent whales’ purchases to make considerable profits.Having proceeded with instructional aspects of CCN project, a news network is launched to review the effective factors on the market at every moment, on the base of which one may analyze cryptocurrency charts and study new projects based on Blockchain technology. Having introduced the principle methods of earning money through Blockchain industry, the users can easily access to a reliable source providing them with a financial statistical analysis of news and market as soon as possible. This approach makes the community much more interested and unified to minimize their own financial loss in a regular manner. The main advantages of CCN project are mentioned in the following: \n1. Creating CCN exclusive wallet and exchange with the lowest commission. \n2. Running the largest NFT gallery for auction. \n3. Setting up a CCN token stake \n4. Establishing an app store presenting apps, games \n5.  Installing an online token verification system assessing and scoring the value and efficiency of tokens for all users, and so forth. In doing so, all members of the community will achieve a comprehensive profit, and this undoubtedly guarantees CCN project survival",
+        "title": "درباره ی پروژه ی TNT",
+        "description": " تیم TNT در نظر دارد با ایجاد یک شبکه پرداخت غیر متمرکز به تمامی هنرمندان در عرصه موسیقی ، سینما ، و دیگر شاخه های هنری – با حفظ مالکیت معنوی اثر از سراسر جهان ، پرداختی با سهولت را به ارمغان بیاورد. در این راستا دارندگان توکن TNT  میتوانند از طریق توکن های خود ، آلبوم ها ، تک آهنگ ها ، کنسرت ها ، فیلم ها ، سریال ها و خرید انواع ساخته های هنری را توسط شبکه پرداخت TNT انجام دهد . در این فرایند به غیر از دسترسی سریع و آسان به آثار مورد نظر از هنرمند خود حمایت کنید. دارندگان توکن TNT میتوانند با نگهداری ماهیانه آن برای خود سود ماهیانه دریافت کنند . این سود بنا به حجم و تغییرات ماهانه از 5 تا 15 درصد میتواند باشد.",
         "isOpen": false
       },
       {
-        "title": "why binance smart chain ?",
-        "description": "Binance Smart Chain (BSC) was developed as a means of utilizing solidity-based smart contracts with much greater speed and efficiency than other, competing chains. With decentralized exchanges on BSC offering lightning-fast swaps and extremely low fees, BSC has started to become one of the most widely used blockchains for Decentralized Finance (Defi).BSC uses a token protocol with 5 second block speeds developed by the Binance Team called BEP-20. Bep-20 / BSC in 5 seconds: https://trustwallet.com/blog/binance-smart-chain-in-numbers Advantages of the Binance smart chain are: It’s a proprietary blockchain, which will provide security and safety to all users and developers. Its native dual chain interoperability will allow cross-chain.  communication and scaling of high-performance Dapps that require a fast and smooth user experience. It’s EVM-compatible and will support all of the existing Ethereum tooling along with faster and cheaper transactions. Its on-chain governance with Proof of Staked Authority consensus, built on 21 validators who validate the transactions, will provide decentralization and enable significant community involvement. CCN token is not responsible for any actions taken on the Binance smart chain.",
+        "title": "چرا شبکه بایننس اسمارت چین؟",
+        "description": "زنجیره هوشمند بایننس (BSC) به عنوان ابزاری برای استفاده از قراردادهای هوشمند مبتنی بر استحکام با سرعت و کارایی بسیار بیشتر نسبت به سایر زنجیره‌های رقیب توسعه داده شد. با صرافی های غیرمتمرکز در BSC که مبادلات سریع برق آسا و کارمزدهای بسیار کم را ارائه می دهد، BSC شروع به تبدیل شدن به یکی از پرمصرف ترین بلاک چین ها برای امور مالی غیرمتمرکز (Defi) کرده است. BSC از یک پروتکل توکن با سرعت بلوک 5 ثانیه توسعه یافته توسط تیم Binance استفاده می کند. BEP-20. Bep-20 / BSC در 5 ثانیه: https://trustwallet.com/blog/binance-smart-chain-in-numbers مزایای زنجیره هوشمند Binance عبارتند از: این یک بلاک چین اختصاصی است که امنیت و ایمنی را برای همه کاربران فراهم می کند. و توسعه دهندگان قابلیت همکاری زنجیره دوگانه بومی آن امکان زنجیره متقابل را فراهم می کند. ارتباط و مقیاس بندی Dapp های با کارایی بالا که به تجربه کاربری سریع و روان نیاز دارند. این با EVM سازگار است و از تمام ابزارهای موجود اتریوم همراه با تراکنش های سریع تر و ارزان تر پشتیبانی می کند. حاکمیت زنجیره ای آن با اجماع Proof of Staked Authority، ساخته شده بر روی 21 اعتباردهنده که تراکنش ها را تأیید می کنند، تمرکززدایی را فراهم می کند و مشارکت قابل توجه جامعه را امکان پذیر می کند. توکن TNT مسئولیتی در قبال اقدامات انجام شده در زنجیره هوشمند Binance ندارد.",
         "isOpen": false
       },
       {
-        "title": "what is the token supply ?",
-        "description": "The Supply of the Token: A primary component of a crypto’s tokenomics is the supply of it. Now, there are three types of supply you should check for when it comes to crypto. There’s the circulating supply, the total supply, and the max supply. The circulating supply of a token is the number of tokens that have been issued so far and are currently in circulation. The total token supply is the number of tokens that exist at present, excluding any that might have gotten burned. And finally, the max supply of a token is the maximum number of tokens that can ever be generated. For some tokens, there’s no determined max supply. If you notice the circulating supply of a particular token has been regularly increased by the project developers over time, you can assume that the value of the token will be going up in the future. On the other hand, if there’s too many tokens being released at once or too frequently, the value of the token might go down.",
+        "title": "عرضه توکن چیست؟",
+        "description": "تامین توکن: یکی از اجزای اصلی توکنومیک رمزارز، تامین آن است. اکنون، سه نوع عرضه وجود دارد که باید در مورد کریپتو بررسی کنید. عرضه در گردش، عرضه کل و حداکثر عرضه وجود دارد. عرضه در گردش یک توکن تعداد ژتون هایی است که تاکنون صادر شده و در حال حاضر در گردش هستند. کل عرضه توکن، تعداد توکن‌هایی است که در حال حاضر وجود دارد، به استثنای مواردی که ممکن است سوخته باشند. و در نهایت، حداکثر عرضه یک توکن، حداکثر تعداد توکن‌هایی است که می‌توان تولید کرد. برای برخی توکن‌ها، حداکثر عرضه مشخصی وجود ندارد. اگر متوجه شدید که عرضه در گردش یک توکن خاص به طور منظم توسط توسعه دهندگان پروژه در طول زمان افزایش یافته است، می توانید فرض کنید که ارزش توکن در آینده افزایش خواهد یافت. از سوی دیگر، اگر تعداد زیادی توکن در یک زمان یا به طور مکرر منتشر شود، ممکن است ارزش توکن کاهش یابد.",
         "isOpen": false
       },
       {
-        "title": "Did you Lock Liquidity on pancakeswap ?",
-        "description": "Liquidity locking is a notion that was created to protect investors from falling for this scam. To prevent liquidity money from being taken from the PancakeSwap pool, the owner's wallet temporarily transfers ownership of LP tokens to a time lock smart contract.",
-        "isOpen": false
-      },
-      {
-        "title": "where can I buy /sell ?",
-        "description": "https://ico.ccnnetwork.co/",
+        "title": "کجا میتواتم خرید و فروش انجام دهم؟",
+        "description": "به زودی",
         "isOpen": false
       }
     ]
   },
   "contact": {
-    "title": "Contact us",
+    "title": "ارتباط با ما",
     "keywords": {
-      "for_any_question": "For Any Question you have please contact :",
-      "support_mail": "support@ccnnetwork.co",
-      "for_business_inq": "For business inquiring please contact :",
-      "partner_mail": "partnerships@ccnnetwork.co",
-      "your_email": "Subject",
-      "message": "Massage",
-      "send_btn_text": "Send Email"
+      "for_any_question": "لطفا هرگونه سوالی که دارید را با ما در میان بگذارید :",
+      "support_mail": "support@tnttoken.co",
+      "for_business_inq": "برای هرگونه سوال بیزنسی لطفا با ایمیل زیر ارتباط برقرار کنید :",
+      "partner_mail": "partnerships@tnttoken.co",
+      "your_email": "موضوع",
+      "message": "پیام",
+      "send_btn_text": "ارسال ایمیل"
     }
   },
   "community_cta": {
@@ -496,54 +453,54 @@
       {
         "icon": "/imgs/icons/social/instagram.svg",
         "title": "Instagram",
-        "link": "https://www.instagram.com/CCN.network/"
+        "link": "#"
       },
       {
         "icon": "/imgs/icons/social/telegram.svg",
         "title": "Telegram",
-        "link": "https://t.me/ccnnetwork"
+        "link": "#"
       },
       {
         "icon": "/imgs/icons/social/twitter.svg",
         "title": "Twitter",
-        "link": "https://twitter.com/CCNnet"
+        "link": "#"
       },
       {
         "icon": "/imgs/icons/social/facebook.svg",
         "title": "Facebook",
-        "link": "https://www.facebook.com/profile.php?id=100078436270384"
+        "link": "#"
       }
     ]
   },
   "footer": {
     "pnckswp_text": "Swap CCN Token",
     "pnckswp_link": "http://ico.ccnnetwork.co/",
-    "write_us": "Write us",
-    "support_email": "support@ccnnetwork.co",
-    "partnership_email": "partnerships@ccnnetwork.co",
-    "raising_awareness": "Raising awareness and spreading information",
-    "team_purpose": "CCN team purpose is to provide news ,education and spreading information about digital Currencies to people of the world",
-    "follow_us": "Follow us!",
+    "write_us": "با ما درارتباط باشید",
+    "support_email": "support@tnttoken.co",
+    "partnership_email": "partnerships@tnttoken.co",
+    "raising_awareness": "اولین توکن در عرصه پرداخت مدیا و موسیقی",
+    "team_purpose": "توکن TNT برای سهولت در خرید آثار هنرمندان تمام دنیا کاربرد دارد. به زودی خرید تک آهنگ ، آلبوم ها ، کنسرت و تمامی کاربرد های مدیا و هنری در این شبکه پرداخت قرار خواهد گرفت.",
+    "follow_us": "ما را دنبال کنید!",
     "socials": [
       {
         "icon": "/imgs/icons/social/instagram.svg",
         "title": "Instagram",
-        "link": "https://www.instagram.com/CCN.network/"
+        "link": "#"
       },
       {
         "icon": "/imgs/icons/social/telegram.svg",
         "title": "Telegram",
-        "link": "https://t.me/ccnnetwork"
+        "link": "#"
       },
       {
         "icon": "/imgs/icons/social/twitter.svg",
         "title": "Twitter",
-        "link": "https://twitter.com/CCNnet"
+        "link": "#"
       },
       {
         "icon": "/imgs/icons/social/facebook.svg",
         "title": "Facebook",
-        "link": "https://www.facebook.com/profile.php?id=100078436270384"
+        "link": "#"
       }
     ]
   }
