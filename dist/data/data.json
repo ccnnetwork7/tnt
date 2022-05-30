@@ -53,7 +53,7 @@
     "c_news_network": "",
     "heading_biggest": "اولین توکن در عرصه پرداخت مدیا و موسیقی",
     "subheading": "توکن TNT  برای سهولت در خرید آثار هنرمندان تمام دنیا کاربرد دارد. به زودی خرید تک آهنگ ، آلبوم ها ، کنسرت و تمامی کاربرد های مدیا و هنری در این شبکه پرداخت قرار خواهد گرفت.",
-    "bsc_addr": "0x721F40adC793e951EdF2ECE86376e7a103211252",
+    "bsc_addr": " *********************************************** ",
     "eth_coming": "آدرس کانترکت",
     "copy_addr_btn_text": "کپی کردن آدرس",
     "bottom_text": "اولین توکن در عرصه پرداخت مدیا و موسیقی",
@@ -61,32 +61,26 @@
       {
         "icon": "/imgs/icons/social/instagram.svg",
         "title": "Instagram",
-        "link": "https://www.instagram.com/CCN.network/"
+        "link": "#"
       },
       {
         "icon": "/imgs/icons/social/telegram.svg",
         "title": "Telegram",
-        "link": "https://t.me/ccnnetwork"
+        "link": "#"
       },
       {
         "icon": "/imgs/icons/social/twitter.svg",
         "title": "Twitter",
-        "link": "https://twitter.com/CCNnet"
+        "link": "#"
       },
       {
         "icon": "/imgs/icons/social/facebook.svg",
         "title": "Facebook",
-        "link": "https://www.facebook.com/profile.php?id=100078436270384"
+        "link": "#"
       }
     ],
-    "green_btn_title": "Get CCN With Crypto / Credit Card",
-    "purple_btn_title": "خرید (PRE-SALE) TNT",
-    "orange_btn_title": "Join CCN Airdrop (telegram bot)",
-    "blue_btn_title": "Special offers for TMINews users",
-    "purple_btn_link": "https://icoreferral.ccnnetwork.co/",
-    "orange_btn_link": "https://t.me/Ccnairdropbot",
-    "green_btn_link": "http://ico.ccnnetwork.co/",
-    "blue_btn_link": "https://sale.ccnnetwork.co/"
+    "buy_btn_title": "خرید (PRE-SALE) TNT",
+    "buy_btn_link": "#"
   },
   "latest_news_and_milestones": {
     "news": {
@@ -238,16 +232,7 @@
     "green_btn_link": "https://ico.ccnnetwork.co/"
   },
   "listed_here": [
-    ["/imgs/exchanges/Cryptototem.png", "https://cryptototem.com/crypto-currency-network-ccn/"],
-    ["/imgs/exchanges/icohotlist.png", "https://www.icohotlist.com/ico/ccn-cryptocurrency-network/"],
-    ["/imgs/exchanges/icolistingonline.png", "https://www.icolistingonline.com/ico/cryptocurrency-network/"],
-    ["/imgs/exchanges/icomarks.png", "https://icomarks.com/ico/cryptocurrency-network"],
-    ["/imgs/exchanges/icoholder.png", "https://icoholder.com/en/cryptocurrency-network-ccn-1016861"],
-    ["/imgs/exchanges/airdropalert.png", "#"],
-    ["/imgs/exchanges/airdropbob.png", "https://www.airdropbob.com/ccn-network/airdrop-ccn-network"],
-    ["/imgs/exchanges/airdropking.png", "http://airdropking.io/airdrop/ccnco"],
-    ["/imgs/exchanges/airdropsmob.png", "#"],
-    ["/imgs/exchanges/airdropvillage.png", "https://airdropvillage.io/airdrop/ccn/"]
+    ["/imgs/CCN.svg", "https://ccnnetwork.co/"]
   ],
   "collaboration": {
     "title": "Cooperation\nin e–commerce (Coming Soon)",
@@ -468,22 +453,22 @@
       {
         "icon": "/imgs/icons/social/instagram.svg",
         "title": "Instagram",
-        "link": "https://www.instagram.com/CCN.network/"
+        "link": "#"
       },
       {
         "icon": "/imgs/icons/social/telegram.svg",
         "title": "Telegram",
-        "link": "https://t.me/ccnnetwork"
+        "link": "#"
       },
       {
         "icon": "/imgs/icons/social/twitter.svg",
         "title": "Twitter",
-        "link": "https://twitter.com/CCNnet"
+        "link": "#"
       },
       {
         "icon": "/imgs/icons/social/facebook.svg",
         "title": "Facebook",
-        "link": "https://www.facebook.com/profile.php?id=100078436270384"
+        "link": "#"
       }
     ]
   },
@@ -500,22 +485,22 @@
       {
         "icon": "/imgs/icons/social/instagram.svg",
         "title": "Instagram",
-        "link": "https://www.instagram.com/CCN.network/"
+        "link": "#"
       },
       {
         "icon": "/imgs/icons/social/telegram.svg",
         "title": "Telegram",
-        "link": "https://t.me/ccnnetwork"
+        "link": "#"
       },
       {
         "icon": "/imgs/icons/social/twitter.svg",
         "title": "Twitter",
-        "link": "https://twitter.com/CCNnet"
+        "link": "#"
       },
       {
         "icon": "/imgs/icons/social/facebook.svg",
         "title": "Facebook",
-        "link": "https://www.facebook.com/profile.php?id=100078436270384"
+        "link": "#"
       }
     ]
   }

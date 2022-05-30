@@ -25,9 +25,9 @@
           >
             <p
               class="text-base md:text-[15px] font-medium text-center"
-              @click="purpleBtnClickHandler()"
+              @click="buyBtnClickHandler()"
             >
-              {{ data.purple_btn_title }}
+              {{ data.buy_btn_title }}
             </p>
           </div>
         </div>
@@ -57,20 +57,8 @@ const props = defineProps<{
   data: any
 }>()
 
-function greenBtnClickHandler(){
-  window.open(props.data.green_btn_link, '_blank')
-}
-
-function purpleBtnClickHandler() {
-  window.open(props.data.purple_btn_link, "_blank");
-}
-
-function orangeBtnClickHandler() {
-  window.open(props.data.orange_btn_link, "_blank");
-}
-
-function blueBtnClickHandler() {
-  window.open(props.data.blue_btn_link, "_blank");
+function buyBtnClickHandler() {
+  window.open(props.data.buy_btn_link, "_blank");
 }
 
 function copyWalletAddr() {
