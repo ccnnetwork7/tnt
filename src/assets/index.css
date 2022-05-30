@@ -4,7 +4,11 @@
 @tailwind components;
 @tailwind utilities;
 
-* {
+/* * {
+  font-family: "Vazir", sans-serif;
+} */
+
+.font-vazir {
   font-family: "Vazir", sans-serif;
 }
 
