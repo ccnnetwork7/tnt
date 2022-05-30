@@ -1,0 +1,505 @@
+{
+  "navbar": {
+    "get_ccn_button_link": "http://news.ccnnetwork.co",
+    "navigation_items": [
+      {
+        "title": "Home",
+        "link": "#hero",
+        "blank": false
+      },
+      {
+        "title": "Latest news",
+        "link": "#latestnews",
+        "blank": false
+      },
+      {
+        "title": "حامیان پروژه",
+        "link": "#exchanges",
+        "blank": false
+      },
+      {
+        "title": "درباره TNT",
+        "link": "#targets",
+        "blank": false
+      },
+      {
+        "title": "اهداف",
+        "link": "#targets",
+        "blank": false
+      },
+      {
+        "title": "ارزش ها",
+        "link": "#values",
+        "blank": false
+      },
+      {
+        "title": "پاداش هولدرها",
+        "link": "#ourtokenomics",
+        "blank": false
+      },
+      {
+        "title": "سوالات متداول",
+        "link": "#faq",
+        "blank": false
+      },
+      {
+        "title": "ارتباط با ما",
+        "link": "#contact",
+        "blank": false
+      }
+    ]
+  },
+  "hero": {
+    "c_news_network": "",
+    "heading_biggest": "The first token in the field of media and music payment",
+    "subheading": "توکن TNT  برای سهولت در خرید آثار هنرمندان تمام دنیا کاربرد دارد. به زودی خرید تک آهنگ ، آلبوم ها ، کنسرت و تمامی کاربرد های مدیا و هنری در این شبکه پرداخت قرار خواهد گرفت.",
+    "bsc_addr": "0xA64C22DC55Bc6a87571D11791242f858e724Dd1c",
+    "eth_coming": "آدرس کانترکت",
+    "copy_addr_btn_text": "کپی کردن آدرس",
+    "bottom_text": "اولین توکن در عرصه پرداخت مدیا و موسیقی",
+    "socials": [
+      {
+        "icon": "/imgs/icons/social/instagram.svg",
+        "title": "Instagram",
+        "link": "https://www.instagram.com/tnt_token/"
+      },
+      {
+        "icon": "/imgs/icons/social/telegram.svg",
+        "title": "Telegram",
+        "link": "https://t.me/tnttoken"
+      },
+      {
+        "icon": "/imgs/icons/social/twitter.svg",
+        "title": "Twitter",
+        "link": "https://twitter.com/tnttoken"
+      },
+      {
+        "icon": "/imgs/icons/social/facebook.svg",
+        "title": "Facebook",
+        "link": "#"
+      }
+    ],
+    "buy_btn_title": "خرید (PRE-SALE) TNT",
+    "buy_btn_link": "#"
+  },
+  "latest_news_and_milestones": {
+    "news": {
+      "title": "Latest News CCN",
+      "slides": [
+        {
+          "title": "",
+          "caption": "",
+          "img": "/imgs/posts/CRYPTO-TOTEM.jpg"
+        },
+        {
+          "title": "",
+          "caption": "",
+          "img": "/imgs/posts/icohotlist.jpg"
+        },
+        {
+          "title": "",
+          "caption": "",
+          "img": "/imgs/posts/ICOlisting.jpg"
+        }
+      ]
+    },
+    "milestones": {
+      "title": "Latest milestone",
+      "slides": [
+        {
+          "title": "",
+          "caption": "",
+          "img": "/imgs/posts/ICOholder.jpg"
+        },
+        {
+          "title": "",
+          "caption": "",
+          "img": "/imgs/posts/ICO-824x416.jpg"
+        },
+        {
+          "title": "",
+          "caption": "",
+          "img": "/imgs/posts/websites.jpg"
+        }
+      ]
+    }
+  },
+  "underhero_white_strip": {
+    "text": "TNT برای شما سهولت و اطمینان را به ارمغان می آورد"
+  },
+  "you_are_our_partners": {
+    "title": "You are our partners",
+    "description": "blahblahblah\nblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblah",
+    "img": "/imgs/hero.png",
+    "items": [
+      {
+        "percentage": "5%",
+        "caption": "blahblahblahb\nblahblahblahb"
+      },
+      {
+        "percentage": "10%",
+        "caption": "blahblahblahb\nblahblahblahb\nblahblah"
+      },
+      {
+        "percentage": "100%",
+        "caption": "blahblahblahbblahblahblahbblahblahblahbblahblahblahbblahblahblahb"
+      }
+    ]
+  },
+  "values": {
+    "title": "ارزش ها",
+    "items": [
+      {
+        "icon": "/imgs/icons/transparency.svg",
+        "title": "صداقت در کار",
+        "caption": "بزرگترین ارزش اجرایی این پروژه صداقتی است میان ما و کاربران و در مقابل بین ما و هنرمندان . با این حرکت به صورت شفاف هنرمندان میتوانند ، پیشرفت های چشم گیری در فعالیت هایشان داشته باشند."
+      },
+      {
+        "icon": "/imgs/features/staking.svg",
+        "title": "ارزش افزوده",
+        "caption": "ما نه تنها به فکر حمایت از هنرمندان بودیم بلکه با ایجاد یک سیستم ارز دیجیتال در آمدی معقول و منطقی را به هولدر های توکن TNT ارئه خواهیم داد."
+      }
+    ]
+  },
+  "intro_video": {
+    "title": "Daily analysis of digital markets\nby top experts",
+    "description": "Introducing the best ico for investment Future analysis of emerging memes by top experts Introducing top nfts for investment Free training in analysis and trading in the Crypto currency market And Every 2 hours Important news of cryptocurrency market\n\nThe world's first 24-hour crypto currency news and analysis networks",
+    "youtube_embed_src": "https://www.youtube-nocookie.com/embed/EWHNB3de6oE"
+  },
+  "features": {
+    "amazing_design": "TNT برای شما سهولت و اطمینان را به ارمغان می آورد",
+    "description": " تیم TNT در نظر دارد با ایجاد یک شبکه پرداخت غیر متمرکز به تمامی هنرمندان در عرصه موسیقی ، سینما ، و دیگر شاخه های هنری – با حفظ مالکیت معنوی اثر از سراسر جهان ، پرداختی با سهولت را به ارمغان بیاورد. در این راستا دارندگان توکن TNT  میتوانند از طریق توکن های خود ، آلبوم ها ، تک آهنگ ها ، کنسرت ها ، فیلم ها ، سریال ها و خرید انواع ساخته های هنری را توسط شبکه پرداخت TNT انجام دهد . در این فرایند به غیر از دسترسی سریع و آسان به آثار مورد نظر از هنرمند خود حمایت کنید. دارندگان توکن TNT میتوانند با نگهداری ماهیانه آن برای خود سود ماهیانه دریافت کنند . این سود بنا به حجم و تغییرات ماهانه از 5 تا 15 درصد میتواند باشد.",
+    "info_buttons": {
+      "buttons": [
+        {
+          "text": "لینک بایننس اسمارت چین TNT",
+          "link": "#"
+        }
+      ]
+    },
+    "features": [
+      {
+        "title": "درامد زایی",
+        "caption": "درامد زایی برای طرافدارن توکن TNT به صورت ماهیانه و با اطمینان از خاطر از 5 تا 25 درصد خواهد بود.",
+        "icon": "/imgs/features/staking.svg"
+      },
+      {
+        "title": "حمایت از شخصیت ها",
+        "caption": "شما میتوانید با خرید آثار هنرمند مورد نظر خود میتوانید ضمن همکاری با ایشان آثاری با کیفیت ، مطلوب تر و برازنده خود را مستقیما از هنرمندان خود دریافت نمایید.",
+        "icon": "/imgs/icons/community.svg"
+      },
+      {
+        "title": "جهانی شدن",
+        "caption": " یکی از اهداف مهم توکن TNT  نگاه جهانی به حمایت از هنرمندان و صاحبین اثار می باشد . که ضمن پیشرفت پروژه تصمیم داریم ، این شبکه پرداخت را به تمام دنیا ارائه دهیم.",
+        "icon": "/imgs/features/satelite.svg"
+      },
+      {
+        "title": "آینده توکن",
+        "caption": " تعداد این توکن بسیار محدود طراحی شده به دلیل آنکه در فرایند های حمایتی مبلغ قابل توجهی را جمع آوری و پرداخت نمایند . لذا براورد می شود در سال اول و دوم ارائه آن بتواند چندین برابر ارزش اولیه را کسب نماید.",
+        "icon": "/imgs/icons/infinity.svg"
+      },
+      {
+        "title": "یک پارچه سازی پرداخت",
+        "caption": "تیم TNT با ارائه مجموعه ای بزرگ از هنرمندان سراسر جهان ، دسترسی شما را برای ارائه خدمات بسیار آسان می نماید و از آن طریق فرصت برای پیشرفت خود را محیا سازد.",
+        "icon": "/imgs/features/certificate.svg"
+      }
+    ]
+  },
+  "application_cta": {
+    "coming_soon": "COMING SOON !",
+    "powerful_app": "Our powerful application",
+    "you_can_easily": "With our application, you can enjoy its unique features",
+    "points": "- The latest news in the world of digital currencies\n- The latest analysis of market fluctuations by the greats of digital currencies\n- Access to our gallery NFT\n- Access to our blockchain App Store with hundreds of apps and games\n- Review of the latest airdrops and ICOs with the opinion of market experts\n- Easy to use wallet & Easy to pay and get easier\n- Join the blockchain and digital currencies training team for free"
+  },
+  "partners": [
+    "/imgs/exchanges/Cryptototem-color.png",
+    "/imgs/exchanges/icohotlist-color.png",
+    "/imgs/exchanges/icolistingonline-color.png",
+    "/imgs/exchanges/icomarks-color.png",
+    "/imgs/exchanges/icoholder-color.png"
+  ],
+  "credit_card": {
+    "image": "/imgs/creditcard.png",
+    "title": "We Make it as easy as possible for users to onboard into crypto",
+    "list_title": "We Make it as easy as possible for users to onboard into crypto Wide coverage of both fiat and crypto",
+    "bullet_list": [
+      "we Accept payments by credit card, debit card or bank transfer",
+      "More than 100 countries and territories supported with over 60 currencies, so users pay in their local currency",
+      "Support for all major blockchains, tokens and stable-coins. 80+ cryptocurrencies in total",
+      "Continuously adding new currencies, blockchains, digital assets and protocols"
+    ],
+    "green_btn_title": "Get CCN With Crypto / Credit Card",
+    "green_btn_link": "https://ico.ccnnetwork.co/"
+  },
+  "listed_here": [["/imgs/CCN.svg", "https://ccnnetwork.co/"]],
+  "collaboration": {
+    "title": "Cooperation\nin e–commerce (Coming Soon)",
+    "description": "One of our largest programs in the field of project development and progress is based on the idea that we will first use our token in our app and website for in-app purchases in areas such as buying and selling NFT of payments for purchasing app and Blockchain markets or Metavars commercial lands. In this way we will become a payment currency within the crypto network making this token more popular so that other payment network will definitely make use of it due to the high volume of our transactions. Entrance in payment market by our currency will be the culmination of this project to affect the entire market. By running this project, you will definitely notice that in time and fast news as well as correct financial statistics analysis will have a significant role in your profitability and most importantly in preserving your capital.",
+    "img": "/imgs/ecommerce.jpg"
+  },
+  "tokenomics": {
+    "title": "در آمد هولدر ها",
+    "item_left": {
+      "icon": "/imgs/tokenomics/burn.svg",
+      "percent": "",
+      "description": "سود ماهیانه : با انجام تراکنش های به موقع و نگهداری از توکن TNT بین 5 تا 25 درصد سود ماهیانه دریافت کنید."
+    },
+    "item_right": {
+      "icon": "/imgs/tokenomics/stake.svg",
+      "percent": "",
+      "description": "استیک کردن : با سپرده گذاری ارز TNT  در وب سایت توکن میتوانید . به غیر از سود ارزش افزوده توکن ، 20 درصد سالیانه سود دریافت کنید."
+    },
+    "item_bottom": {
+      "icon": "/imgs/tokenomics/coin.svg",
+      "number": "500,000$",
+      "description": "به ازای هر 50 میلیون دلار جمع آوری شده در سیستم 500 هزار دلار به صورت قرعه کشی به چندین نفر از هولدر هایی که بیش از 6 ماه توکن TNT را نگهداری نموده اند پرداخت خواهد شد."
+    },
+    "buttons": [
+      {
+        "icon": "/imgs/icons/whitepaper.svg",
+        "title": "Whitepaper",
+        "link": "http://ccnnetwork.co/whitepaper.pdf"
+      }
+    ]
+  },
+  "under_token_stats_white_strip": {
+    "text": "We will show you the facts\nAbout digital currencies as they really are."
+  },
+  "token_distribution": {
+    "title": "Token Distribution",
+    "stats": [
+      {
+        "title": "airdrop & Attract people",
+        "percent": "4%"
+      },
+      {
+        "title": "Initial Coin Offerings (ico)",
+        "percent": "5%"
+      },
+      {
+        "title": "Establish a TV network and launch an application",
+        "percent": "20%"
+      },
+      {
+        "title": "Token burning",
+        "percent": "20%"
+      },
+      {
+        "title": "Public supply",
+        "percent": "51%"
+      }
+    ]
+  },
+  "roadmap": {
+    "title": "Our Roadmap",
+    "steps": [
+      {
+        "title": "Start",
+        "items": [
+          "Starting the open source and decentralized programming of token based on road map and the objectives.",
+          "Starting the extensive advertising of token and project in Telegram and reputable websites",
+          "5000 Telegram channel members",
+          "5000 Twitter page followers",
+          "5000 Instagrampagefollowers",
+          "Unveiling token website",
+          "Starting the application programming",
+          "Starting news services programming in website",
+          "Starting the CCN stake programming in website",
+          "Starting working of exchanges in website."
+        ]
+      },
+      {
+        "title": "Moving toward the goals",
+        "items": [
+          "25000 Telegram channel members",
+          "25000 Twitter page followers.",
+          "15000 Instagram page followers.",
+          "10000 holders",
+          "Being listed in two wallets",
+          "Being listed in two exchanges",
+          "Finishing the designing stages and creating the application news page",
+          "Completing the designing and creating website newspage",
+          "Starting a specific wallet programming",
+          "Starting a Dex programming in the application"
+        ]
+      },
+      {
+        "title": "Phase one goals",
+        "items": [
+          "Starting the influencers’ campaign.",
+          "Starting three advertising campaigns in big Telegram channels.",
+          "50000 Telegram members.",
+          "50000 Twitter members.",
+          "40000 Instagram followers.",
+          "20000 holders.",
+          "Being listed in two wallets.",
+          "Being listed in two exchanges.",
+          "Starting the programming NFT Gallery on the website and application.",
+          "Starting the use of Dex and specific wallet in application."
+        ]
+      },
+      {
+        "title": "Phase two goals",
+        "items": [
+          "Starting a high pressure tweet and trend campaign on Twitter.",
+          "Starting a targeted advertising campaign in Telegram.",
+          "100000 Telegram members.",
+          "100000 Twitter followers.",
+          "100000 Instagram followers.",
+          "40000 holders.",
+          "Being listed in two exchanges.",
+          "Starting the programming of investment projects in available emerging projects IOCs inapplications and websites.",
+          "Starting using and auction in NFT Gallery available on the websites and applications.",
+          "Starting publishing important and immediate news of digital currencies in the news section of the website and application"
+        ]
+      },
+      {
+        "title": "Phase one achieving the goals",
+        "items": [
+          "The second phase of the advertising campaign of Twitter and Trend followers.",
+          "Starting the influencers’ campaign on Instagram.",
+          "150000 Telegram members.",
+          "150000 Twitter followers.",
+          "150000 Instagram followers.",
+          "50000 holders.",
+          "Being listed in spot section of exchange.",
+          "Starting the use of the investment section in valid ECO sections of the website and application.",
+          "Starting the programming phase 2 NFT Gallery including NFT games in website and application.",
+          "Starting the trial activity of CCN online television channel.",
+          "Live broadcasting of important and breaking news in online platforms as well as Instagram,",
+          "youTube and Facebook platforms 24 hours a day and seven days a week.",
+          "Starting online training digital currencies and blockchain industry on Instagram, youTube and Facebook platforms"
+        ]
+      },
+      {
+        "title": "Phase one achieving the goals",
+        "items": [
+          "Starting of the last high pressure advertising campaign on all social media.",
+          "200000 Telegram members.",
+          "200000 Twitter followers.",
+          "200000 Instagram followers.",
+          "80000 holders.",
+          "Starting the programming CCN specific Blockchain.",
+          "Starting the programming of 2nd version of the application.",
+          "Starting App Store Blockchain programming.",
+          "Starting the use of phase 2 NFT Gallery on the website and application.",
+          "Being listed in Spot 4 section of the market main exchange."
+        ]
+      },
+      {
+        "title": "Ultimate goal",
+        "items": [
+          "250000 Telegram members.",
+          "250000 Twitter followers.",
+          "250000 Instagram followers",
+          "100000 holders",
+          "Formal getting started of CCN television news channel.",
+          "Formal getting started of free CCN training course.",
+          "Ending the second version of application project.",
+          "Starting the use of specific Blockchain.",
+          "Getting started of completed with different pages.",
+          "Getting started of Blockchain App Store with thousands of game apps, etc."
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "title": "TNT چیست؟",
+        "description": "توکن TNT اولین توکن در عرصه پرداخت مدیا و موسیقی است. توکن TNT برای سهولت در خرید آثار هنرمندان تمام دنیا کاربرد دارد. به زودی خرید تک آهنگ ، آلبوم ها ، کنسرت و تمامی کاربرد های مدیا و هنری در این شبکه پرداخت قرار خواهد گرفت.",
+        "isOpen": true
+      },
+      {
+        "title": "درباره ی پروژه ی TNT",
+        "description": " تیم TNT در نظر دارد با ایجاد یک شبکه پرداخت غیر متمرکز به تمامی هنرمندان در عرصه موسیقی ، سینما ، و دیگر شاخه های هنری – با حفظ مالکیت معنوی اثر از سراسر جهان ، پرداختی با سهولت را به ارمغان بیاورد. در این راستا دارندگان توکن TNT  میتوانند از طریق توکن های خود ، آلبوم ها ، تک آهنگ ها ، کنسرت ها ، فیلم ها ، سریال ها و خرید انواع ساخته های هنری را توسط شبکه پرداخت TNT انجام دهد . در این فرایند به غیر از دسترسی سریع و آسان به آثار مورد نظر از هنرمند خود حمایت کنید. دارندگان توکن TNT میتوانند با نگهداری ماهیانه آن برای خود سود ماهیانه دریافت کنند . این سود بنا به حجم و تغییرات ماهانه از 5 تا 15 درصد میتواند باشد.",
+        "isOpen": false
+      },
+      {
+        "title": "چرا شبکه بایننس اسمارت چین؟",
+        "description": "زنجیره هوشمند بایننس (BSC) به عنوان ابزاری برای استفاده از قراردادهای هوشمند مبتنی بر استحکام با سرعت و کارایی بسیار بیشتر نسبت به سایر زنجیره‌های رقیب توسعه داده شد. با صرافی های غیرمتمرکز در BSC که مبادلات سریع برق آسا و کارمزدهای بسیار کم را ارائه می دهد، BSC شروع به تبدیل شدن به یکی از پرمصرف ترین بلاک چین ها برای امور مالی غیرمتمرکز (Defi) کرده است. BSC از یک پروتکل توکن با سرعت بلوک 5 ثانیه توسعه یافته توسط تیم Binance استفاده می کند. BEP-20. Bep-20 / BSC در 5 ثانیه: https://trustwallet.com/blog/binance-smart-chain-in-numbers مزایای زنجیره هوشمند Binance عبارتند از: این یک بلاک چین اختصاصی است که امنیت و ایمنی را برای همه کاربران فراهم می کند. و توسعه دهندگان قابلیت همکاری زنجیره دوگانه بومی آن امکان زنجیره متقابل را فراهم می کند. ارتباط و مقیاس بندی Dapp های با کارایی بالا که به تجربه کاربری سریع و روان نیاز دارند. این با EVM سازگار است و از تمام ابزارهای موجود اتریوم همراه با تراکنش های سریع تر و ارزان تر پشتیبانی می کند. حاکمیت زنجیره ای آن با اجماع Proof of Staked Authority، ساخته شده بر روی 21 اعتباردهنده که تراکنش ها را تأیید می کنند، تمرکززدایی را فراهم می کند و مشارکت قابل توجه جامعه را امکان پذیر می کند. توکن TNT مسئولیتی در قبال اقدامات انجام شده در زنجیره هوشمند Binance ندارد.",
+        "isOpen": false
+      },
+      {
+        "title": "عرضه توکن چیست؟",
+        "description": "تامین توکن: یکی از اجزای اصلی توکنومیک رمزارز، تامین آن است. اکنون، سه نوع عرضه وجود دارد که باید در مورد کریپتو بررسی کنید. عرضه در گردش، عرضه کل و حداکثر عرضه وجود دارد. عرضه در گردش یک توکن تعداد ژتون هایی است که تاکنون صادر شده و در حال حاضر در گردش هستند. کل عرضه توکن، تعداد توکن‌هایی است که در حال حاضر وجود دارد، به استثنای مواردی که ممکن است سوخته باشند. و در نهایت، حداکثر عرضه یک توکن، حداکثر تعداد توکن‌هایی است که می‌توان تولید کرد. برای برخی توکن‌ها، حداکثر عرضه مشخصی وجود ندارد. اگر متوجه شدید که عرضه در گردش یک توکن خاص به طور منظم توسط توسعه دهندگان پروژه در طول زمان افزایش یافته است، می توانید فرض کنید که ارزش توکن در آینده افزایش خواهد یافت. از سوی دیگر، اگر تعداد زیادی توکن در یک زمان یا به طور مکرر منتشر شود، ممکن است ارزش توکن کاهش یابد.",
+        "isOpen": false
+      },
+      {
+        "title": "کجا میتواتم خرید و فروش انجام دهم؟",
+        "description": "به زودی",
+        "isOpen": false
+      }
+    ]
+  },
+  "contact": {
+    "title": "ارتباط با ما",
+    "keywords": {
+      "for_any_question": "لطفا هرگونه سوالی که دارید را با ما در میان بگذارید :",
+      "support_mail": "support@tnttoken.co",
+      "for_business_inq": "برای هرگونه سوال بیزنسی لطفا با ایمیل زیر ارتباط برقرار کنید :",
+      "partner_mail": "partnerships@tnttoken.co",
+      "your_email": "موضوع",
+      "message": "پیام",
+      "send_btn_text": "ارسال ایمیل"
+    }
+  },
+  "community_cta": {
+    "title": "Join our community",
+    "bodyText": "\n \n \n \n Our telegram channel is filled with community members 24/7 that would love to help you. Do not trust random messages of people claiming to be “support” or ever give out your wallet info to anyone.\n",
+    "socials": [
+      {
+        "icon": "/imgs/icons/social/instagram.svg",
+        "title": "Instagram",
+        "link": "https://www.instagram.com/tnt_token/"
+      },
+      {
+        "icon": "/imgs/icons/social/telegram.svg",
+        "title": "Telegram",
+        "link": "https://t.me/tnttoken"
+      },
+      {
+        "icon": "/imgs/icons/social/twitter.svg",
+        "title": "Twitter",
+        "link": "https://twitter.com/tnttoken"
+      },
+      {
+        "icon": "/imgs/icons/social/facebook.svg",
+        "title": "Facebook",
+        "link": "#"
+      }
+    ]
+  },
+  "footer": {
+    "pnckswp_text": "Swap CCN Token",
+    "pnckswp_link": "http://ico.ccnnetwork.co/",
+    "write_us": "با ما درارتباط باشید",
+    "support_email": "support@tnttoken.co",
+    "partnership_email": "partnerships@tnttoken.co",
+    "raising_awareness": "اولین توکن در عرصه پرداخت مدیا و موسیقی",
+    "team_purpose": "توکن TNT برای سهولت در خرید آثار هنرمندان تمام دنیا کاربرد دارد. به زودی خرید تک آهنگ ، آلبوم ها ، کنسرت و تمامی کاربرد های مدیا و هنری در این شبکه پرداخت قرار خواهد گرفت.",
+    "follow_us": "ما را دنبال کنید!",
+    "socials": [
+      {
+        "icon": "/imgs/icons/social/instagram.svg",
+        "title": "Instagram",
+        "link": "https://www.instagram.com/tnt_token/"
+      },
+      {
+        "icon": "/imgs/icons/social/telegram.svg",
+        "title": "Telegram",
+        "link": "https://t.me/tnttoken"
+      },
+      {
+        "icon": "/imgs/icons/social/twitter.svg",
+        "title": "Twitter",
+        "link": "https://twitter.com/tnttoken"
+      },
+      {
+        "icon": "/imgs/icons/social/facebook.svg",
+        "title": "Facebook",
+        "link": "#"
+      }
+    ]
+  }
+}

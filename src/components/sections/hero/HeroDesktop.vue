@@ -1,7 +1,16 @@
 <template>
-  <div class="pt-24 h-screen w-full flex flex-col justify-center bg-[#360b6e]" style="padding-top:8rem;">
+  <div
+    class="pt-24 h-screen w-full flex flex-col justify-center bg-[#360b6e]"
+    style="padding-top: 8rem"
+  >
     <div class="container mx-auto">
-      <div class="flex items-center px-4">
+      <div
+        dir="ltr"
+        class="flex items-center px-4"
+        :class="{
+          'flex-row-reverse text-left': useLang().langSelected.value == 'en',
+        }"
+      >
         <div class="w-1/2">
           <p class="text-2xl">{{ data.c_news_network }}</p>
           <p class="text-6xl font-black mb-5">{{ data.heading_biggest }}</p>
@@ -31,8 +40,6 @@
               >
                 <p class="font-medium">{{ data.copy_addr_btn_text }}</p>
               </div>
-
-              
             </div>
             <div class="mt-3">
               <div
@@ -46,8 +53,6 @@
                 </p>
               </div>
             </div>
-            
-            
           </div>
 
           <div class="flex">
@@ -66,8 +71,6 @@
           <div>
             <img src="/imgs/bannner.png" alt="" />
           </div>
-          
-          
         </div>
       </div>
       <p class="text-center">{{ data.bottom_text }}</p>
@@ -78,6 +81,7 @@
 <script setup lang="ts">
 import SocialBox from "../../shared/components/SocialBox.vue";
 import useToast from "../../shared/composables/useToast";
+import useLang from "../../shared/composables/useLang";
 
 const { createToast } = useToast();
 
@@ -85,11 +89,9 @@ const props = defineProps<{
   data: any;
 }>();
 
-
 function buyBtnClickHandler() {
   window.open(props.data.buy_btn_link, "_blank");
 }
-
 
 function copyWalletAddr() {
   navigator.clipboard.writeText(props.data.bsc_addr).then(

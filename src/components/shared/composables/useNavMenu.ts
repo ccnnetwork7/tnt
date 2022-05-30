@@ -1,10 +1,9 @@
-import {ref} from "vue";
+import { ref } from "vue";
 
-const isNavMenuActive = ref<boolean>(false)
-
+const isNavMenuActive = ref<boolean>(false);
 
 export default function useNavMenu() {
-    return {
-        isNavMenuActive
-    }
+  return {
+    isNavMenuActive,
+  };
 }
