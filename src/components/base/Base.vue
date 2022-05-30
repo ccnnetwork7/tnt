@@ -3,7 +3,7 @@
     :dir="useLang().langSelected.value == 'fa' ? 'rtl' : 'ltr'"
     class="text-white select-none"
     :class="{
-      'font-sans': useLang().langSelected.value == 'en',
+      'font-roboto': useLang().langSelected.value == 'en',
       'font-vazir': useLang().langSelected.value == 'fa',
     }"
     v-if="loaded"

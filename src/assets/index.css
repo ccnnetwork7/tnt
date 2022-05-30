@@ -12,6 +12,10 @@
   font-family: "Vazir", sans-serif;
 }
 
+.font-roboto {
+  font-family: 'Roboto', sans-serif;
+}
+
 .bg-grey--theme {
   background-color: #dfd5d5;
 }
