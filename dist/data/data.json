@@ -53,7 +53,7 @@
     "c_news_network": "",
     "heading_biggest": "اولین توکن در عرصه پرداخت مدیا و موسیقی",
     "subheading": "توکن TNT  برای سهولت در خرید آثار هنرمندان تمام دنیا کاربرد دارد. به زودی خرید تک آهنگ ، آلبوم ها ، کنسرت و تمامی کاربرد های مدیا و هنری در این شبکه پرداخت قرار خواهد گرفت.",
-    "bsc_addr": " *********************************************** ",
+    "bsc_addr": "0xA64C22DC55Bc6a87571D11791242f858e724Dd1c",
     "eth_coming": "آدرس کانترکت",
     "copy_addr_btn_text": "کپی کردن آدرس",
     "bottom_text": "اولین توکن در عرصه پرداخت مدیا و موسیقی",
@@ -61,17 +61,17 @@
       {
         "icon": "/imgs/icons/social/instagram.svg",
         "title": "Instagram",
-        "link": "#"
+        "link": "https://www.instagram.com/tnt_token/"
       },
       {
         "icon": "/imgs/icons/social/telegram.svg",
         "title": "Telegram",
-        "link": "#"
+        "link": "https://t.me/tnttoken"
       },
       {
         "icon": "/imgs/icons/social/twitter.svg",
         "title": "Twitter",
-        "link": "#"
+        "link": "https://twitter.com/tnttoken"
       },
       {
         "icon": "/imgs/icons/social/facebook.svg",
@@ -453,17 +453,17 @@
       {
         "icon": "/imgs/icons/social/instagram.svg",
         "title": "Instagram",
-        "link": "#"
+        "link": "https://www.instagram.com/tnt_token/"
       },
       {
         "icon": "/imgs/icons/social/telegram.svg",
         "title": "Telegram",
-        "link": "#"
+        "link": "https://t.me/tnttoken"
       },
       {
         "icon": "/imgs/icons/social/twitter.svg",
         "title": "Twitter",
-        "link": "#"
+        "link": "https://twitter.com/tnttoken"
       },
       {
         "icon": "/imgs/icons/social/facebook.svg",
@@ -485,17 +485,17 @@
       {
         "icon": "/imgs/icons/social/instagram.svg",
         "title": "Instagram",
-        "link": "#"
+        "link": "https://www.instagram.com/tnt_token/"
       },
       {
         "icon": "/imgs/icons/social/telegram.svg",
         "title": "Telegram",
-        "link": "#"
+        "link": "https://t.me/tnttoken"
       },
       {
         "icon": "/imgs/icons/social/twitter.svg",
         "title": "Twitter",
-        "link": "#"
+        "link": "https://twitter.com/tnttoken"
       },
       {
         "icon": "/imgs/icons/social/facebook.svg",
