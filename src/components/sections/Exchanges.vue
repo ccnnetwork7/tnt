@@ -1,11 +1,11 @@
 <template>
   <div class="bg-[#360b6e] w-full flex flex-col items-center py-10">
 
-    <p class="text-4xl font-bold mb-5">حامیان پروژه</p>
-    <p class="font-light text-center text-xs xl:text-xl">صرافی های بیشتر به زودی اضافه خواهند شد</p>
+    <p class="text-4xl font-bold mb-5">{{ data.content.title }}</p>
+    <p class="font-light text-center text-xs xl:text-xl">{{ data.content.description }}</p>
 
     <div ref="scrollContainer" class="flex overflow-x-auto scrolling-partners">
-      <img class="cursor-pointer" v-for="(item, index) of data" :key="index" :src="item[0]" alt="" @click="imgClickHandler(index)">
+      <img class="cursor-pointer" v-for="(item, index) of data.exchanges" :key="index" :src="item[0]" alt="" @click="imgClickHandler(index)">
     </div>
   </div>
 </template>
@@ -18,7 +18,7 @@ const props = defineProps<{
 }>()
 
 function imgClickHandler(index: string|number) {
-  window.open(props.data[index][1], "_blank");
+  window.open(props.data.exchanges[index][1], "_blank");
 }
 const previousScrollPosition = ref<number>(0)
 const scrollDirection = ref<string>("ltr")

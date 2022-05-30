@@ -12,7 +12,7 @@
       </div>
       
 
-      <p class="text-4xl font-bold mb-16">اهداف</p>
+      <p class="text-4xl font-bold mb-16">{{ data.title }}</p>
       <div class="w-full grid grid-cols-2 xl:grid-cols-3 gap-y-32 items-start">
         <FeatureItem v-for="(item,index) of data.features"
                     :key="index" :title="item.title" :caption="item.caption" :icon="item.icon"/>

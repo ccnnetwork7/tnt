@@ -43,10 +43,7 @@ replay_pid*
 # Recommended template: Node.gitignore
 
 node_modules/
-node_modules
 npm-debug.log
 yarn-error.log
 
-yarn.lock
-package-lock.json
 # End of https://www.toptal.com/developers/gitignore/api/vue,vuejs,java

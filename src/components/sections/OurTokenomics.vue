@@ -3,7 +3,7 @@
     <div
       class="container mx-auto flex flex-col justify-center items-center py-20"
     >
-      <p class="xl:text-[30px] mb-5">پاداش</p>
+      <p class="xl:text-[30px] mb-5">{{ data.first_title }}</p>
       <p class="font-bold text-xl xl:text-4xl mb-16 xl:mb-5">
         {{ data.title }}
       </p>

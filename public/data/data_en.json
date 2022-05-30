@@ -13,37 +13,37 @@
         "blank": false
       },
       {
-        "title": "حامیان پروژه",
+        "title": "Exchanges",
         "link": "#exchanges",
         "blank": false
       },
       {
-        "title": "درباره TNT",
+        "title": "About TNT",
         "link": "#targets",
         "blank": false
       },
       {
-        "title": "اهداف",
+        "title": "Targets",
         "link": "#targets",
         "blank": false
       },
       {
-        "title": "ارزش ها",
+        "title": "Values",
         "link": "#values",
         "blank": false
       },
       {
-        "title": "پاداش هولدرها",
+        "title": "Holders Rewards",
         "link": "#ourtokenomics",
         "blank": false
       },
       {
-        "title": "سوالات متداول",
+        "title": "FAQ",
         "link": "#faq",
         "blank": false
       },
       {
-        "title": "ارتباط با ما",
+        "title": "Contact Us",
         "link": "#contact",
         "blank": false
       }
@@ -52,11 +52,11 @@
   "hero": {
     "c_news_network": "",
     "heading_biggest": "The first token in the field of media and music payment",
-    "subheading": "توکن TNT  برای سهولت در خرید آثار هنرمندان تمام دنیا کاربرد دارد. به زودی خرید تک آهنگ ، آلبوم ها ، کنسرت و تمامی کاربرد های مدیا و هنری در این شبکه پرداخت قرار خواهد گرفت.",
+    "subheading": "The TNT token is used to facilitate the purchase of works by artists from around the world. Soon the purchase of singles, albums, concerts and all media and art applications will be placed on this payment network.",
     "bsc_addr": "0xA64C22DC55Bc6a87571D11791242f858e724Dd1c",
-    "eth_coming": "آدرس کانترکت",
-    "copy_addr_btn_text": "کپی کردن آدرس",
-    "bottom_text": "اولین توکن در عرصه پرداخت مدیا و موسیقی",
+    "eth_coming": "Contract Address",
+    "copy_addr_btn_text": "Copy Address",
+    "bottom_text": "The first token in the field of media and music payment",
     "socials": [
       {
         "icon": "/imgs/icons/social/instagram.svg",
@@ -79,7 +79,7 @@
         "link": "#"
       }
     ],
-    "buy_btn_title": "خرید (PRE-SALE) TNT",
+    "buy_btn_title": "Buy TNT (PRE-SALE)",
     "buy_btn_link": "#"
   },
   "latest_news_and_milestones": {
@@ -125,7 +125,7 @@
     }
   },
   "underhero_white_strip": {
-    "text": "TNT برای شما سهولت و اطمینان را به ارمغان می آورد"
+    "text": "TNT brings you convenience and confidence"
   },
   "you_are_our_partners": {
     "title": "You are our partners",
@@ -147,17 +147,17 @@
     ]
   },
   "values": {
-    "title": "ارزش ها",
+    "title": "Values",
     "items": [
       {
         "icon": "/imgs/icons/transparency.svg",
-        "title": "صداقت در کار",
-        "caption": "بزرگترین ارزش اجرایی این پروژه صداقتی است میان ما و کاربران و در مقابل بین ما و هنرمندان . با این حرکت به صورت شفاف هنرمندان میتوانند ، پیشرفت های چشم گیری در فعالیت هایشان داشته باشند."
+        "title": "Clarity",
+        "caption": "The greatest executive value of this project is the honesty between us and the users and in contrast between us and the artists. With this transparent move, artists can make significant progress in their activities."
       },
       {
         "icon": "/imgs/features/staking.svg",
-        "title": "ارزش افزوده",
-        "caption": "ما نه تنها به فکر حمایت از هنرمندان بودیم بلکه با ایجاد یک سیستم ارز دیجیتال در آمدی معقول و منطقی را به هولدر های توکن TNT ارئه خواهیم داد."
+        "title": "Value Added",
+        "caption": "Not only did we think of supporting artists, but we would also provide a reasonable income to TNT token holders by creating a digital currency system."
       }
     ]
   },
@@ -167,40 +167,41 @@
     "youtube_embed_src": "https://www.youtube-nocookie.com/embed/EWHNB3de6oE"
   },
   "features": {
-    "amazing_design": "TNT برای شما سهولت و اطمینان را به ارمغان می آورد",
-    "description": " تیم TNT در نظر دارد با ایجاد یک شبکه پرداخت غیر متمرکز به تمامی هنرمندان در عرصه موسیقی ، سینما ، و دیگر شاخه های هنری – با حفظ مالکیت معنوی اثر از سراسر جهان ، پرداختی با سهولت را به ارمغان بیاورد. در این راستا دارندگان توکن TNT  میتوانند از طریق توکن های خود ، آلبوم ها ، تک آهنگ ها ، کنسرت ها ، فیلم ها ، سریال ها و خرید انواع ساخته های هنری را توسط شبکه پرداخت TNT انجام دهد . در این فرایند به غیر از دسترسی سریع و آسان به آثار مورد نظر از هنرمند خود حمایت کنید. دارندگان توکن TNT میتوانند با نگهداری ماهیانه آن برای خود سود ماهیانه دریافت کنند . این سود بنا به حجم و تغییرات ماهانه از 5 تا 15 درصد میتواند باشد.",
+    "title": "Targets",
+    "amazing_design": "TNT brings you convenience and confidence",
+    "description": "The TNT team intends to make payment easy by creating a decentralized payment network for all artists in music, cinema, and other art disciplines - while preserving the intellectual property of the work from around the world. In this regard, TNT token holders can use their tokens, albums, singles, concerts, movies, series and purchase a variety of works of art through the TNT payment network. In this process, in addition to quick and easy access to the desired works, support your artist. Holders of TNT tokens can earn a monthly profit by maintaining it monthly. This profit can be from 5 to 15% depending on the volume and monthly changes.",
     "info_buttons": {
       "buttons": [
         {
-          "text": "لینک بایننس اسمارت چین TNT",
+          "text": "TNT Binance Smart Chain Link",
           "link": "#"
         }
       ]
     },
     "features": [
       {
-        "title": "درامد زایی",
-        "caption": "درامد زایی برای طرافدارن توکن TNT به صورت ماهیانه و با اطمینان از خاطر از 5 تا 25 درصد خواهد بود.",
+        "title": "Income Generation",
+        "caption": "The revenue for TNT token supporters will be from 5 to 25 percent on a monthly basis and with confidence.",
         "icon": "/imgs/features/staking.svg"
       },
       {
-        "title": "حمایت از شخصیت ها",
-        "caption": "شما میتوانید با خرید آثار هنرمند مورد نظر خود میتوانید ضمن همکاری با ایشان آثاری با کیفیت ، مطلوب تر و برازنده خود را مستقیما از هنرمندان خود دریافت نمایید.",
+        "title": "Support The Characters",
+        "caption": "By purchasing the works of your desired artist, you can work with them to receive quality, more desirable and graceful works directly from your artists.",
         "icon": "/imgs/icons/community.svg"
       },
       {
-        "title": "جهانی شدن",
-        "caption": " یکی از اهداف مهم توکن TNT  نگاه جهانی به حمایت از هنرمندان و صاحبین اثار می باشد . که ضمن پیشرفت پروژه تصمیم داریم ، این شبکه پرداخت را به تمام دنیا ارائه دهیم.",
+        "title": "Globalization",
+        "caption": "One of the important goals of the TNT token is a global approach to supporting artists and artists. As the project progresses, we decide to offer this payment network to the whole world.",
         "icon": "/imgs/features/satelite.svg"
       },
       {
-        "title": "آینده توکن",
-        "caption": " تعداد این توکن بسیار محدود طراحی شده به دلیل آنکه در فرایند های حمایتی مبلغ قابل توجهی را جمع آوری و پرداخت نمایند . لذا براورد می شود در سال اول و دوم ارائه آن بتواند چندین برابر ارزش اولیه را کسب نماید.",
+        "title": "The Future Of Token",
+        "caption": "The number of these tokens is very limited because they collect and pay a significant amount in support processes. Therefore, it is estimated that in the first and second year of its presentation can be several times the original value.",
         "icon": "/imgs/icons/infinity.svg"
       },
       {
-        "title": "یک پارچه سازی پرداخت",
-        "caption": "تیم TNT با ارائه مجموعه ای بزرگ از هنرمندان سراسر جهان ، دسترسی شما را برای ارائه خدمات بسیار آسان می نماید و از آن طریق فرصت برای پیشرفت خود را محیا سازد.",
+        "title": "Payment Integration",
+        "caption": "With a large selection of artists from around the world, the TNT team makes it very easy for you to access services and thereby provide opportunities for your advancement.",
         "icon": "/imgs/features/certificate.svg"
       }
     ]
@@ -231,28 +232,35 @@
     "green_btn_title": "Get CCN With Crypto / Credit Card",
     "green_btn_link": "https://ico.ccnnetwork.co/"
   },
-  "listed_here": [["/imgs/CCN.svg", "https://ccnnetwork.co/"]],
+  "listed_here": {
+    "exchanges": [ ["/imgs/CCN.svg", "https://ccnnetwork.co/"] ],
+    "content":{
+      "title": "Listed Here",
+      "description": "More exchanges will be available soon"
+    }
+  },
   "collaboration": {
     "title": "Cooperation\nin e–commerce (Coming Soon)",
     "description": "One of our largest programs in the field of project development and progress is based on the idea that we will first use our token in our app and website for in-app purchases in areas such as buying and selling NFT of payments for purchasing app and Blockchain markets or Metavars commercial lands. In this way we will become a payment currency within the crypto network making this token more popular so that other payment network will definitely make use of it due to the high volume of our transactions. Entrance in payment market by our currency will be the culmination of this project to affect the entire market. By running this project, you will definitely notice that in time and fast news as well as correct financial statistics analysis will have a significant role in your profitability and most importantly in preserving your capital.",
     "img": "/imgs/ecommerce.jpg"
   },
   "tokenomics": {
-    "title": "در آمد هولدر ها",
+    "title": "Holders Income",
+    "first_title": "Rewards",
     "item_left": {
       "icon": "/imgs/tokenomics/burn.svg",
       "percent": "",
-      "description": "سود ماهیانه : با انجام تراکنش های به موقع و نگهداری از توکن TNT بین 5 تا 25 درصد سود ماهیانه دریافت کنید."
+      "description": "Monthly profit: Receive between 5 and 25% monthly profit by performing timely transactions and maintaining TNT tokens."
     },
     "item_right": {
       "icon": "/imgs/tokenomics/stake.svg",
       "percent": "",
-      "description": "استیک کردن : با سپرده گذاری ارز TNT  در وب سایت توکن میتوانید . به غیر از سود ارزش افزوده توکن ، 20 درصد سالیانه سود دریافت کنید."
+      "description": "Sticking: You can deposit TNT currency on the token website. Receive up to 20% annual interest rate, excluding tokens."
     },
     "item_bottom": {
       "icon": "/imgs/tokenomics/coin.svg",
       "number": "500,000$",
-      "description": "به ازای هر 50 میلیون دلار جمع آوری شده در سیستم 500 هزار دلار به صورت قرعه کشی به چندین نفر از هولدر هایی که بیش از 6 ماه توکن TNT را نگهداری نموده اند پرداخت خواهد شد."
+      "description": "For every 50 million dollars raised in the system, 500,000$ will be drawn by lot to several holders who have held a TNT token for more than six months."
     },
     "buttons": [
       {
@@ -406,42 +414,42 @@
   "faq": {
     "items": [
       {
-        "title": "TNT چیست؟",
-        "description": "توکن TNT اولین توکن در عرصه پرداخت مدیا و موسیقی است. توکن TNT برای سهولت در خرید آثار هنرمندان تمام دنیا کاربرد دارد. به زودی خرید تک آهنگ ، آلبوم ها ، کنسرت و تمامی کاربرد های مدیا و هنری در این شبکه پرداخت قرار خواهد گرفت.",
+        "title": "What is TNT?",
+        "description": "The TNT token is the first token in the field of media and music payment. The TNT token is used to facilitate the purchase of works by artists from around the world. Soon the purchase of singles, albums, concerts and all media and art applications will be placed on this payment network.",
         "isOpen": true
       },
       {
-        "title": "درباره ی پروژه ی TNT",
-        "description": " تیم TNT در نظر دارد با ایجاد یک شبکه پرداخت غیر متمرکز به تمامی هنرمندان در عرصه موسیقی ، سینما ، و دیگر شاخه های هنری – با حفظ مالکیت معنوی اثر از سراسر جهان ، پرداختی با سهولت را به ارمغان بیاورد. در این راستا دارندگان توکن TNT  میتوانند از طریق توکن های خود ، آلبوم ها ، تک آهنگ ها ، کنسرت ها ، فیلم ها ، سریال ها و خرید انواع ساخته های هنری را توسط شبکه پرداخت TNT انجام دهد . در این فرایند به غیر از دسترسی سریع و آسان به آثار مورد نظر از هنرمند خود حمایت کنید. دارندگان توکن TNT میتوانند با نگهداری ماهیانه آن برای خود سود ماهیانه دریافت کنند . این سود بنا به حجم و تغییرات ماهانه از 5 تا 15 درصد میتواند باشد.",
+        "title": "About TNT project",
+        "description": "The TNT team intends to make payment easy by creating a decentralized payment network for all artists in music, cinema, and other art disciplines - while preserving the intellectual property of the work from around the world. In this regard, TNT token holders can use their tokens, albums, singles, concerts, movies, series and purchase a variety of works of art through the TNT payment network. In this process, in addition to quick and easy access to the desired works, support your artist. Holders of TNT tokens can earn a monthly profit by maintaining it monthly. This profit can be from 5 to 15% depending on the volume and monthly changes.",
         "isOpen": false
       },
       {
-        "title": "چرا شبکه بایننس اسمارت چین؟",
-        "description": "زنجیره هوشمند بایننس (BSC) به عنوان ابزاری برای استفاده از قراردادهای هوشمند مبتنی بر استحکام با سرعت و کارایی بسیار بیشتر نسبت به سایر زنجیره‌های رقیب توسعه داده شد. با صرافی های غیرمتمرکز در BSC که مبادلات سریع برق آسا و کارمزدهای بسیار کم را ارائه می دهد، BSC شروع به تبدیل شدن به یکی از پرمصرف ترین بلاک چین ها برای امور مالی غیرمتمرکز (Defi) کرده است. BSC از یک پروتکل توکن با سرعت بلوک 5 ثانیه توسعه یافته توسط تیم Binance استفاده می کند. BEP-20. Bep-20 / BSC در 5 ثانیه: https://trustwallet.com/blog/binance-smart-chain-in-numbers مزایای زنجیره هوشمند Binance عبارتند از: این یک بلاک چین اختصاصی است که امنیت و ایمنی را برای همه کاربران فراهم می کند. و توسعه دهندگان قابلیت همکاری زنجیره دوگانه بومی آن امکان زنجیره متقابل را فراهم می کند. ارتباط و مقیاس بندی Dapp های با کارایی بالا که به تجربه کاربری سریع و روان نیاز دارند. این با EVM سازگار است و از تمام ابزارهای موجود اتریوم همراه با تراکنش های سریع تر و ارزان تر پشتیبانی می کند. حاکمیت زنجیره ای آن با اجماع Proof of Staked Authority، ساخته شده بر روی 21 اعتباردهنده که تراکنش ها را تأیید می کنند، تمرکززدایی را فراهم می کند و مشارکت قابل توجه جامعه را امکان پذیر می کند. توکن TNT مسئولیتی در قبال اقدامات انجام شده در زنجیره هوشمند Binance ندارد.",
+        "title": "Why Binance Smart Chain?",
+        "description": "The Bainance Smart Chain (BSC) was developed as a tool to use robust smart contracts with much greater speed and efficiency than other competing chains. With decentralized exchanges in the BSC offering fast-paced exchanges and very low commissions, the BSC has begun to become one of China's most widely used blocks for decentralized finance (Defi). The BSC uses a 5-second block speed token protocol developed by the Binance team. BEP-20. Bep-20 / BSC in 5 seconds: https://trustwallet.com/blog/binance-smart-chain-in-numbers The benefits of Binance Smart Chain are: It is a dedicated blockchain that provides security and safety for all users he does. And its native dual-chain interoperability allows developers to cross-chain. Communicate and scale high-performance Dapps that require a fast and smooth user experience. It is EVM compatible and supports all available Atrium tools with faster and cheaper transactions. Its chain governance, with a Proof of Staked Authority consensus, built on 21 creditors that approve transactions, provides decentralization and enables significant community participation. The TNT token is not responsible for actions taken on the Binance smart chain.",
         "isOpen": false
       },
       {
-        "title": "عرضه توکن چیست؟",
-        "description": "تامین توکن: یکی از اجزای اصلی توکنومیک رمزارز، تامین آن است. اکنون، سه نوع عرضه وجود دارد که باید در مورد کریپتو بررسی کنید. عرضه در گردش، عرضه کل و حداکثر عرضه وجود دارد. عرضه در گردش یک توکن تعداد ژتون هایی است که تاکنون صادر شده و در حال حاضر در گردش هستند. کل عرضه توکن، تعداد توکن‌هایی است که در حال حاضر وجود دارد، به استثنای مواردی که ممکن است سوخته باشند. و در نهایت، حداکثر عرضه یک توکن، حداکثر تعداد توکن‌هایی است که می‌توان تولید کرد. برای برخی توکن‌ها، حداکثر عرضه مشخصی وجود ندارد. اگر متوجه شدید که عرضه در گردش یک توکن خاص به طور منظم توسط توسعه دهندگان پروژه در طول زمان افزایش یافته است، می توانید فرض کنید که ارزش توکن در آینده افزایش خواهد یافت. از سوی دیگر، اگر تعداد زیادی توکن در یک زمان یا به طور مکرر منتشر شود، ممکن است ارزش توکن کاهش یابد.",
+        "title": "What is the token supply?",
+        "description": "Token supply: One of the main components of Ramzarz tokens is its supply. Now, there are three types of offerings to look at when it comes to cryptocurrencies. There is supply in circulation, total supply and maximum supply. Circulation of a token is the number of chips that have been issued so far and are currently in circulation. The total token supply is the number of tokens that currently exist, except that they may have been burned. Finally, the maximum supply of a token is the maximum number of tokens that can be generated. For some tokens, there is no set maximum supply. If you find that the turnover of a particular token has been regularly increased by project developers over time, you can assume that the token value will increase in the future. On the other hand, if a large number of tokens are released at the same time or repeatedly, the value of the token may decrease.",
         "isOpen": false
       },
       {
-        "title": "کجا میتواتم خرید و فروش انجام دهم؟",
-        "description": "به زودی",
+        "title": "Where can I buy/sell?",
+        "description": "Coming Soon!",
         "isOpen": false
       }
     ]
   },
   "contact": {
-    "title": "ارتباط با ما",
+    "title": "Contact Us",
     "keywords": {
-      "for_any_question": "لطفا هرگونه سوالی که دارید را با ما در میان بگذارید :",
+      "for_any_question": "For any question you have, please contact: ",
       "support_mail": "support@tnttoken.co",
-      "for_business_inq": "برای هرگونه سوال بیزنسی لطفا با ایمیل زیر ارتباط برقرار کنید :",
+      "for_business_inq": "For bussiness inquiring, please contact: ",
       "partner_mail": "partnerships@tnttoken.co",
-      "your_email": "موضوع",
-      "message": "پیام",
-      "send_btn_text": "ارسال ایمیل"
+      "your_email": "Title",
+      "message": "Message",
+      "send_btn_text": "Send Email"
     }
   },
   "community_cta": {
@@ -473,12 +481,12 @@
   "footer": {
     "pnckswp_text": "Swap CCN Token",
     "pnckswp_link": "http://ico.ccnnetwork.co/",
-    "write_us": "با ما درارتباط باشید",
+    "write_us": "Contact Us",
     "support_email": "support@tnttoken.co",
     "partnership_email": "partnerships@tnttoken.co",
-    "raising_awareness": "اولین توکن در عرصه پرداخت مدیا و موسیقی",
-    "team_purpose": "توکن TNT برای سهولت در خرید آثار هنرمندان تمام دنیا کاربرد دارد. به زودی خرید تک آهنگ ، آلبوم ها ، کنسرت و تمامی کاربرد های مدیا و هنری در این شبکه پرداخت قرار خواهد گرفت.",
-    "follow_us": "ما را دنبال کنید!",
+    "raising_awareness": "The first token in the field of media and music payment",
+    "team_purpose": "The TNT token is used to facilitate the purchase of works by artists from around the world. Soon the purchase of singles, albums, concerts and all media and art applications will be placed on this payment network.",
+    "follow_us": "Follow Us!",
     "socials": [
       {
         "icon": "/imgs/icons/social/instagram.svg",

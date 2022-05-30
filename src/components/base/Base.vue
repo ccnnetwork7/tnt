@@ -89,7 +89,7 @@ watch(lang, async (newLang, old) => {
           data.value = response.data;
         }),
 
-        axios.get("/data/posts.json").then((response) => {
+        axios.get("/data/posts_en.json").then((response) => {
           posts.value = response.data;
         }),
 
@@ -138,7 +138,7 @@ if (lang.value == "fa") {
         data.value = response.data;
       }),
 
-      axios.get("/data/posts.json").then((response) => {
+      axios.get("/data/posts_en.json").then((response) => {
         posts.value = response.data;
       }),
 
