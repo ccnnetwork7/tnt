@@ -5,19 +5,17 @@
 @tailwind utilities;
 
 * {
-    font-family: 'Vazir', sans-serif;
-    direction: rtl;
+  font-family: "Vazir", sans-serif;
 }
 
 .bg-grey--theme {
-    background-color: #dfd5d5;
+  background-color: #dfd5d5;
 }
-
 
 html {
-    scroll-padding-top: 150px;
+  scroll-padding-top: 150px;
 }
 
-body{
-    background-color: #c6d0da!important;
+body {
+  background-color: #c6d0da !important;
 }

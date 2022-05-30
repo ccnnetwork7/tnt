@@ -4,19 +4,13 @@
     style="padding-top: 8rem"
   >
     <div class="container mx-auto">
-      <div
-        dir="ltr"
-        class="flex items-center px-4"
-        :class="{
-          'flex-row-reverse text-left': useLang().langSelected.value == 'en',
-        }"
-      >
+      <div class="flex items-center px-4">
         <div class="w-1/2">
           <p class="text-2xl">{{ data.c_news_network }}</p>
           <p class="text-6xl font-black mb-5">{{ data.heading_biggest }}</p>
           <p class="text-xl mb-5">{{ data.subheading }}</p>
 
-          <div class="flex mb-3 flex items-center">
+          <div class="flex mb-3 items-center">
             <img src="/imgs/icons/ether.svg" alt="" />
             <p>{{ data.eth_coming }}</p>
           </div>

@@ -19,6 +19,7 @@
         class="flex h-full items-center xl:ml-[250px] 2xl:ml-[320px] 3xl:ml-[320px]"
       >
         <div
+          v-if="useLang().langSelected.value == 'fa'"
           class="m-2 mr-6 flex gap-2 bg-slate-100 p-1 rounded-xl text-gray-800"
         >
           <div
@@ -52,6 +53,29 @@
           >
             {{ item.title }}
           </p>
+        </div>
+        <div
+          v-if="useLang().langSelected.value == 'en'"
+          class="m-2 mr-6 flex gap-2 bg-slate-100 p-1 rounded-xl text-gray-800"
+        >
+          <div
+            :class="{
+              'activeLang text-white': useLang().langSelected.value == 'fa',
+            }"
+            class="px-2 py-1 rounded-xl cursor-pointer"
+            @click="useLang().changeLang('fa')"
+          >
+            FA
+          </div>
+          <div
+            :class="{
+              'activeLang text-white': useLang().langSelected.value == 'en',
+            }"
+            class="px-2 py-1 rounded-xl cursor-pointer"
+            @click="useLang().changeLang('en')"
+          >
+            EN
+          </div>
         </div>
       </div>
 

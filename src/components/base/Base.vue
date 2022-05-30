@@ -1,5 +1,9 @@
 <template>
-  <div class="text-white select-none" v-if="loaded">
+  <div
+    :dir="useLang().langSelected.value == 'fa' ? 'rtl' : 'ltr'"
+    class="text-white select-none"
+    v-if="loaded"
+  >
     <transition name="fade">
       <NavbarMenuMobile
         v-if="isNavMenuActive"
